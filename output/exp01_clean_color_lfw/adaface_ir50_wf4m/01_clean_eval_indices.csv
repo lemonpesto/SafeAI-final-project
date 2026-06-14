@@ -4,9 +4,6 @@ probe_row,identity,local_index,lfw_index
 2,Abdullah Gul,2,3089
 3,Abdullah Gul,3,5651
 4,Abdullah Gul,4,511
-5,Abdullah Gul,5,365
-6,Abdullah Gul,6,4581
-7,Abdullah Gul,7,2754
 8,Ciro Gomes,0,1523
 9,Ciro Gomes,1,4921
 10,Ciro Gomes,2,1611
@@ -25,8 +22,6 @@ probe_row,identity,local_index,lfw_index
 23,Edmund Stoiber,2,230
 24,Edmund Stoiber,3,3934
 25,Edmund Stoiber,4,3456
-26,Edmund Stoiber,5,3267
-27,Edmund Stoiber,6,311
 28,Edmund Stoiber,7,3320
 29,Carmen Electra,0,1383
 30,Carmen Electra,1,5393
@@ -39,11 +34,9 @@ probe_row,identity,local_index,lfw_index
 37,Tung Chee-hwa,3,4287
 38,Tung Chee-hwa,4,713
 39,Tung Chee-hwa,5,64
-40,Tung Chee-hwa,6,3938
 41,Tung Chee-hwa,7,3775
 42,Woody Allen,0,3392
 43,Woody Allen,1,839
-44,Woody Allen,2,5560
 45,Woody Allen,3,4323
 46,Kim Dae-jung,0,942
 47,Kim Dae-jung,1,5866
@@ -60,11 +53,8 @@ probe_row,identity,local_index,lfw_index
 58,Lleyton Hewitt,5,3901
 59,Lleyton Hewitt,6,4173
 60,Lleyton Hewitt,7,2903
-61,Ben Affleck,0,5891
-62,Ben Affleck,1,1565
 63,Ben Affleck,2,2864
 64,Ben Affleck,3,2075
-65,Ben Affleck,4,1029
 66,Ben Affleck,5,3639
 67,Jeremy Greenstock,0,4084
 68,Jeremy Greenstock,1,2036
@@ -73,12 +63,9 @@ probe_row,identity,local_index,lfw_index
 71,Jeremy Greenstock,4,896
 72,Jeremy Greenstock,5,3176
 73,Jeremy Greenstock,6,4983
-74,Jeremy Greenstock,7,525
 75,David Anderson,0,1507
 76,David Anderson,1,3078
 77,David Anderson,2,777
-78,David Anderson,3,2681
-79,John Stockton,0,12
 80,John Stockton,1,5663
 83,Zhu Rongji,0,4642
 84,Zhu Rongji,1,5394
@@ -96,10 +83,8 @@ probe_row,identity,local_index,lfw_index
 96,Mahmoud Abbas,5,1856
 97,Mahmoud Abbas,6,4068
 98,Mahmoud Abbas,7,1924
-99,Gloria Macapagal Arroyo,0,4396
 100,Gloria Macapagal Arroyo,1,721
 101,Gloria Macapagal Arroyo,2,104
-102,Gloria Macapagal Arroyo,3,1195
 103,Gloria Macapagal Arroyo,4,968
 104,Gloria Macapagal Arroyo,5,2960
 105,Gloria Macapagal Arroyo,6,4353
@@ -119,8 +104,6 @@ probe_row,identity,local_index,lfw_index
 121,Catherine Zeta-Jones,2,4309
 122,Catherine Zeta-Jones,3,793
 123,Catherine Zeta-Jones,4,527
-124,Catherine Zeta-Jones,5,1755
-125,Catherine Zeta-Jones,6,4294
 126,Catherine Zeta-Jones,7,5466
 127,Robert Blake,0,205
 128,Robert Blake,1,5567
@@ -132,9 +115,7 @@ probe_row,identity,local_index,lfw_index
 134,Queen Elizabeth II,0,1539
 135,Queen Elizabeth II,1,4749
 136,Queen Elizabeth II,2,1889
-137,Queen Elizabeth II,3,2773
 138,Queen Elizabeth II,4,3986
-139,Queen Elizabeth II,5,2915
 140,Queen Elizabeth II,6,2237
 141,Queen Elizabeth II,7,3512
 142,Martha Stewart,0,1125
@@ -165,7 +146,6 @@ probe_row,identity,local_index,lfw_index
 167,Silvan Shalom,1,3283
 169,Silvan Shalom,3,103
 170,Silvan Shalom,4,1833
-171,Britney Spears,0,2536
 172,Britney Spears,1,1469
 173,Britney Spears,2,1233
 174,Britney Spears,3,3876
@@ -211,14 +191,11 @@ probe_row,identity,local_index,lfw_index
 215,Ari Fleischer,1,2335
 216,Ari Fleischer,2,4686
 217,Ari Fleischer,3,2271
-218,Ari Fleischer,4,4093
 219,Ari Fleischer,5,4818
 220,Ari Fleischer,6,79
 221,Ari Fleischer,7,58
-222,Tim Henman,0,4141
 223,Tim Henman,1,4071
 224,Tim Henman,2,3862
-225,Tim Henman,3,1788
 226,Tim Henman,4,5297
 227,Tim Henman,5,2694
 228,Tim Henman,6,5983
@@ -253,9 +230,7 @@ probe_row,identity,local_index,lfw_index
 257,Jennifer Aniston,6,3760
 258,Jennifer Aniston,7,2314
 259,George W Bush,0,2673
-260,George W Bush,1,2875
 261,George W Bush,2,3645
-262,George W Bush,3,1535
 263,George W Bush,4,2386
 264,George W Bush,5,2704
 265,George W Bush,6,1908
@@ -268,7 +243,6 @@ probe_row,identity,local_index,lfw_index
 272,Billy Crystal,1,699
 273,Billy Crystal,2,3140
 274,Billy Crystal,3,5755
-275,Billy Crystal,4,961
 276,Rob Marshall,0,5223
 277,Rob Marshall,1,3606
 278,Rob Marshall,2,2040
@@ -276,6 +250,7 @@ probe_row,identity,local_index,lfw_index
 280,Rob Marshall,4,5893
 281,Madonna,0,286
 282,Madonna,1,2214
+283,Madonna,2,2514
 284,Madonna,3,128
 285,Kevin Spacey,0,3341
 286,Kevin Spacey,1,634
@@ -297,10 +272,8 @@ probe_row,identity,local_index,lfw_index
 303,Li Zhaoxing,5,2953
 304,Li Zhaoxing,6,3333
 305,Paul Wolfowitz,0,1273
-306,Paul Wolfowitz,1,4379
 307,Paul Wolfowitz,2,1181
 308,Paul Wolfowitz,3,284
-309,Paul Wolfowitz,4,5121
 310,Paul Wolfowitz,5,1135
 311,Paul Wolfowitz,6,2367
 312,Paul Wolfowitz,7,5536
@@ -314,17 +287,13 @@ probe_row,identity,local_index,lfw_index
 320,Nicanor Duarte Frutos,7,2263
 321,Jose Manuel Durao Barroso,0,575
 322,Jose Manuel Durao Barroso,1,4576
-323,Jose Manuel Durao Barroso,2,3346
 324,Jose Manuel Durao Barroso,3,2548
 325,Jose Manuel Durao Barroso,4,5751
 326,Brad Johnson,0,1588
-327,Brad Johnson,1,2336
 328,Brad Johnson,2,3516
 329,Brad Johnson,3,3976
-330,Peter Struck,0,546
 331,Peter Struck,1,2533
 332,Peter Struck,2,2422
-333,Peter Struck,3,5507
 334,Shimon Peres,0,5030
 335,Shimon Peres,1,850
 336,Shimon Peres,2,5518
@@ -337,7 +306,6 @@ probe_row,identity,local_index,lfw_index
 343,Michael Jackson,2,5844
 344,Michael Jackson,3,3995
 345,Michael Jackson,4,1957
-346,Michael Jackson,5,2646
 347,Michael Jackson,6,1676
 348,Michael Jackson,7,1179
 349,Pierce Brosnan,0,3640
@@ -350,7 +318,6 @@ probe_row,identity,local_index,lfw_index
 356,Pierce Brosnan,7,2
 357,Joe Lieberman,0,5409
 358,Joe Lieberman,1,225
-359,Joe Lieberman,2,5269
 360,Joe Lieberman,3,5366
 361,Joe Lieberman,4,3796
 362,Joe Lieberman,5,4004
@@ -390,7 +357,6 @@ probe_row,identity,local_index,lfw_index
 397,Hu Jintao,0,82
 398,Hu Jintao,1,3648
 399,Hu Jintao,2,3762
-400,Hu Jintao,3,3756
 401,Hu Jintao,4,3316
 402,Hu Jintao,5,122
 403,Hu Jintao,6,1437
@@ -415,7 +381,6 @@ probe_row,identity,local_index,lfw_index
 422,Salma Hayek,3,5514
 423,Salma Hayek,4,2427
 424,Salma Hayek,5,2130
-425,Salma Hayek,6,5860
 426,Salma Hayek,7,238
 427,Lance Bass,0,2008
 428,Lance Bass,1,3963
@@ -458,8 +423,6 @@ probe_row,identity,local_index,lfw_index
 465,Condoleezza Rice,3,3192
 466,Condoleezza Rice,4,2698
 467,Condoleezza Rice,5,1312
-468,Condoleezza Rice,6,1140
-469,Condoleezza Rice,7,27
 470,Colin Powell,0,2949
 471,Colin Powell,1,5336
 472,Colin Powell,2,5839
@@ -475,7 +438,6 @@ probe_row,identity,local_index,lfw_index
 482,Jon Gruden,4,849
 483,Jon Gruden,5,4908
 484,Carla Del Ponte,0,3716
-485,Carla Del Ponte,1,4862
 486,Carla Del Ponte,2,4459
 487,Carla Del Ponte,3,3484
 489,Rubens Barrichello,1,1990
@@ -483,12 +445,9 @@ probe_row,identity,local_index,lfw_index
 491,Rubens Barrichello,3,4165
 492,Rubens Barrichello,4,1579
 493,Rubens Barrichello,5,4369
-494,Rubens Barrichello,6,2888
-495,Rubens Barrichello,7,1037
 496,Pedro Almodovar,0,4000
 497,Pedro Almodovar,1,5868
 498,Pedro Almodovar,2,3073
-500,Pedro Almodovar,4,3322
 501,Pedro Almodovar,5,5489
 502,Xavier Malisse,0,2825
 503,Xavier Malisse,1,5618
@@ -500,10 +459,8 @@ probe_row,identity,local_index,lfw_index
 509,Albert Costa,3,827
 510,Albert Costa,4,2879
 511,Susan Sarandon,0,1994
-512,Susan Sarandon,1,2224
 513,Susan Sarandon,2,5475
 514,Susan Sarandon,3,4314
-515,Susan Sarandon,4,3668
 516,Bob Graham,0,3
 517,Bob Graham,1,826
 518,Bob Graham,2,1620
@@ -517,8 +474,6 @@ probe_row,identity,local_index,lfw_index
 526,Nestor Kirchner,5,4821
 527,Nestor Kirchner,6,2151
 528,Nestor Kirchner,7,3242
-530,Victoria Clarke,1,1262
-532,Victoria Clarke,3,3045
 533,Chanda Rubin,0,1121
 534,Chanda Rubin,1,3101
 535,Chanda Rubin,2,5924
@@ -530,7 +485,6 @@ probe_row,identity,local_index,lfw_index
 541,Jason Kidd,0,3311
 542,Jason Kidd,1,5447
 543,Jason Kidd,2,3272
-544,Jason Kidd,3,5606
 545,Jason Kidd,4,2600
 546,Jason Kidd,5,461
 547,Jason Kidd,6,9
@@ -566,16 +520,13 @@ probe_row,identity,local_index,lfw_index
 577,Lindsay Davenport,5,5186
 578,Lindsay Davenport,6,3296
 579,Lindsay Davenport,7,533
-580,Heidi Klum,0,4560
 581,Heidi Klum,1,2679
 582,Heidi Klum,2,4501
 583,Heidi Klum,3,3441
 584,David Nalbandian,0,1016
 585,David Nalbandian,1,4077
 586,David Nalbandian,2,3204
-587,David Nalbandian,3,594
 588,David Nalbandian,4,1211
-589,David Nalbandian,5,166
 590,David Nalbandian,6,4113
 591,David Nalbandian,7,1965
 592,Trent Lott,0,4878
@@ -584,17 +535,13 @@ probe_row,identity,local_index,lfw_index
 595,Trent Lott,3,1633
 596,Trent Lott,4,4542
 597,Trent Lott,5,5909
-598,Trent Lott,6,2254
 599,Trent Lott,7,1559
-600,Paul Martin,0,1443
 601,Paul Martin,1,661
-602,Paul Martin,2,2410
 603,Paul Martin,3,2518
 604,Paul Martin,4,61
 605,Paul Martin,5,1337
 606,Paul Martin,6,1268
 607,Natalie Maines,0,2793
-608,Natalie Maines,1,4024
 609,Natalie Maines,2,557
 610,Natalie Maines,3,227
 611,John Travolta,0,3152
@@ -602,9 +549,6 @@ probe_row,identity,local_index,lfw_index
 613,John Travolta,2,4667
 614,John Travolta,3,5521
 615,John Travolta,4,2464
-616,John Travolta,5,176
-617,Roman Polanski,0,5293
-619,Roman Polanski,2,4438
 620,Roman Polanski,3,1439
 621,Roman Polanski,4,3172
 622,Justin Timberlake,0,283

@@ -80,6 +80,7 @@ probe_row,identity,local_index,lfw_index
 78,David Anderson,3,2681
 79,John Stockton,0,12
 80,John Stockton,1,5663
+82,John Stockton,3,2958
 83,Zhu Rongji,0,4642
 84,Zhu Rongji,1,5394
 85,Zhu Rongji,2,1051
@@ -415,7 +416,6 @@ probe_row,identity,local_index,lfw_index
 422,Salma Hayek,3,5514
 423,Salma Hayek,4,2427
 424,Salma Hayek,5,2130
-425,Salma Hayek,6,5860
 426,Salma Hayek,7,238
 427,Lance Bass,0,2008
 428,Lance Bass,1,3963
@@ -488,6 +488,7 @@ probe_row,identity,local_index,lfw_index
 496,Pedro Almodovar,0,4000
 497,Pedro Almodovar,1,5868
 498,Pedro Almodovar,2,3073
+499,Pedro Almodovar,3,428
 500,Pedro Almodovar,4,3322
 501,Pedro Almodovar,5,5489
 502,Xavier Malisse,0,2825
@@ -517,8 +518,8 @@ probe_row,identity,local_index,lfw_index
 526,Nestor Kirchner,5,4821
 527,Nestor Kirchner,6,2151
 528,Nestor Kirchner,7,3242
+529,Victoria Clarke,0,2962
 530,Victoria Clarke,1,1262
-532,Victoria Clarke,3,3045
 533,Chanda Rubin,0,1121
 534,Chanda Rubin,1,3101
 535,Chanda Rubin,2,5924
@@ -530,7 +531,6 @@ probe_row,identity,local_index,lfw_index
 541,Jason Kidd,0,3311
 542,Jason Kidd,1,5447
 543,Jason Kidd,2,3272
-544,Jason Kidd,3,5606
 545,Jason Kidd,4,2600
 546,Jason Kidd,5,461
 547,Jason Kidd,6,9
@@ -573,7 +573,6 @@ probe_row,identity,local_index,lfw_index
 584,David Nalbandian,0,1016
 585,David Nalbandian,1,4077
 586,David Nalbandian,2,3204
-587,David Nalbandian,3,594
 588,David Nalbandian,4,1211
 589,David Nalbandian,5,166
 590,David Nalbandian,6,4113

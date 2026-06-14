@@ -1,0 +1,2 @@
+model_short_name,model_name,n_identities,n_enroll,n_probe,target_far,actual_far,threshold,rank1_acc,correct_accept_rate,false_reject_rate,misid_rate,misaccept_rate,avg_top1_sim,avg_true_sim,clean_eval_n,lfw_color,lfw_funneled
+adaface_ir101_wf4m,minchul/cvlface_adaface_ir101_webface4m,100,100,629,0.01,0.010004657063480592,0.19376549124717712,0.9761526232114467,0.9745627980922098,0.009538950715421303,0.02384737678855326,0.01589825119236884,0.49971091747283936,0.4979930818080902,613,True,True

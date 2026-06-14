@@ -1,6 +1,5 @@
 probe_row,identity,local_index,lfw_index
 0,Abdullah Gul,0,2753
-1,Abdullah Gul,1,5277
 2,Abdullah Gul,2,3089
 3,Abdullah Gul,3,5651
 4,Abdullah Gul,4,511
@@ -64,7 +63,6 @@ probe_row,identity,local_index,lfw_index
 62,Ben Affleck,1,1565
 63,Ben Affleck,2,2864
 64,Ben Affleck,3,2075
-65,Ben Affleck,4,1029
 66,Ben Affleck,5,3639
 67,Jeremy Greenstock,0,4084
 68,Jeremy Greenstock,1,2036
@@ -77,9 +75,9 @@ probe_row,identity,local_index,lfw_index
 75,David Anderson,0,1507
 76,David Anderson,1,3078
 77,David Anderson,2,777
-78,David Anderson,3,2681
 79,John Stockton,0,12
 80,John Stockton,1,5663
+81,John Stockton,2,3867
 83,Zhu Rongji,0,4642
 84,Zhu Rongji,1,5394
 85,Zhu Rongji,2,1051
@@ -96,7 +94,6 @@ probe_row,identity,local_index,lfw_index
 96,Mahmoud Abbas,5,1856
 97,Mahmoud Abbas,6,4068
 98,Mahmoud Abbas,7,1924
-99,Gloria Macapagal Arroyo,0,4396
 100,Gloria Macapagal Arroyo,1,721
 101,Gloria Macapagal Arroyo,2,104
 102,Gloria Macapagal Arroyo,3,1195
@@ -211,7 +208,6 @@ probe_row,identity,local_index,lfw_index
 215,Ari Fleischer,1,2335
 216,Ari Fleischer,2,4686
 217,Ari Fleischer,3,2271
-218,Ari Fleischer,4,4093
 219,Ari Fleischer,5,4818
 220,Ari Fleischer,6,79
 221,Ari Fleischer,7,58
@@ -235,7 +231,6 @@ probe_row,identity,local_index,lfw_index
 239,Tom Cruise,5,1267
 240,Tom Cruise,6,465
 241,Tom Cruise,7,1495
-242,JK Rowling,0,4758
 243,JK Rowling,1,1594
 244,JK Rowling,2,779
 245,JK Rowling,3,1473
@@ -294,6 +289,7 @@ probe_row,identity,local_index,lfw_index
 299,Li Zhaoxing,1,4247
 300,Li Zhaoxing,2,556
 301,Li Zhaoxing,3,4278
+302,Li Zhaoxing,4,5093
 303,Li Zhaoxing,5,2953
 304,Li Zhaoxing,6,3333
 305,Paul Wolfowitz,0,1273
@@ -349,7 +345,6 @@ probe_row,identity,local_index,lfw_index
 355,Pierce Brosnan,6,1403
 356,Pierce Brosnan,7,2
 357,Joe Lieberman,0,5409
-358,Joe Lieberman,1,225
 359,Joe Lieberman,2,5269
 360,Joe Lieberman,3,5366
 361,Joe Lieberman,4,3796
@@ -501,7 +496,6 @@ probe_row,identity,local_index,lfw_index
 510,Albert Costa,4,2879
 511,Susan Sarandon,0,1994
 512,Susan Sarandon,1,2224
-513,Susan Sarandon,2,5475
 514,Susan Sarandon,3,4314
 515,Susan Sarandon,4,3668
 516,Bob Graham,0,3
@@ -517,7 +511,9 @@ probe_row,identity,local_index,lfw_index
 526,Nestor Kirchner,5,4821
 527,Nestor Kirchner,6,2151
 528,Nestor Kirchner,7,3242
+529,Victoria Clarke,0,2962
 530,Victoria Clarke,1,1262
+531,Victoria Clarke,2,3014
 532,Victoria Clarke,3,3045
 533,Chanda Rubin,0,1121
 534,Chanda Rubin,1,3101
@@ -530,10 +526,8 @@ probe_row,identity,local_index,lfw_index
 541,Jason Kidd,0,3311
 542,Jason Kidd,1,5447
 543,Jason Kidd,2,3272
-544,Jason Kidd,3,5606
 545,Jason Kidd,4,2600
 546,Jason Kidd,5,461
-547,Jason Kidd,6,9
 548,Jason Kidd,7,1263
 549,Jiang Zemin,0,352
 550,Jiang Zemin,1,3652
@@ -573,7 +567,6 @@ probe_row,identity,local_index,lfw_index
 584,David Nalbandian,0,1016
 585,David Nalbandian,1,4077
 586,David Nalbandian,2,3204
-587,David Nalbandian,3,594
 588,David Nalbandian,4,1211
 589,David Nalbandian,5,166
 590,David Nalbandian,6,4113
@@ -601,7 +594,6 @@ probe_row,identity,local_index,lfw_index
 612,John Travolta,1,3598
 613,John Travolta,2,4667
 614,John Travolta,3,5521
-615,John Travolta,4,2464
 616,John Travolta,5,176
 617,Roman Polanski,0,5293
 619,Roman Polanski,2,4438
