@@ -1,0 +1,35 @@
+{
+  "experiment": "exp01_clean_color_lfw_baseline",
+  "created_at": "2026-06-14T16:16:36.443880",
+  "seed": 42,
+  "device": "cuda",
+  "model": {
+    "model_name": "minchul/cvlface_adaface_ir101_webface12m",
+    "model_short_name": "adaface_ir101_wf12m",
+    "model_path": "/content/minchul_cvlface_adaface_ir101_webface12m"
+  },
+  "lfw": {
+    "color": true,
+    "funneled": true,
+    "num_identities": 20,
+    "min_faces_per_person": 5,
+    "enroll_images_per_id": 1,
+    "max_probes_per_id": 8,
+    "n_enroll": 20,
+    "n_probe": 127
+  },
+  "evaluation": {
+    "target_far": 0.01,
+    "actual_far": 0.010360547036883548,
+    "threshold": 0.16687588393688202,
+    "batch_size": 64
+  },
+  "outputs": {
+    "summary_csv": "/content/drive/MyDrive/SafeAI-final-project/output/exp01_clean_color_lfw/adaface_ir101_wf12m/01_clean_color_lfw_baseline_summary.csv",
+    "detail_csv": "/content/drive/MyDrive/SafeAI-final-project/output/exp01_clean_color_lfw/adaface_ir101_wf12m/details/01_clean_color_lfw_detail.csv",
+    "clean_eval_indices_csv": "/content/drive/MyDrive/SafeAI-final-project/output/exp01_clean_color_lfw/adaface_ir101_wf12m/01_clean_eval_indices.csv",
+    "split_metadata_csv": "/content/drive/MyDrive/SafeAI-final-project/output/exp01_clean_color_lfw/adaface_ir101_wf12m/01_lfw_color_split_metadata.csv",
+    "figures_dir": "/content/drive/MyDrive/SafeAI-final-project/output/exp01_clean_color_lfw/adaface_ir101_wf12m/figures",
+    "embeddings_dir": "/content/drive/MyDrive/SafeAI-final-project/output/exp01_clean_color_lfw/adaface_ir101_wf12m/embeddings"
+  }
+}
