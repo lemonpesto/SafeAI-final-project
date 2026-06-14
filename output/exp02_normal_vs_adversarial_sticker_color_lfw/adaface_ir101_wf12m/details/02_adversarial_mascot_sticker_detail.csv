@@ -1,0 +1,615 @@
+probe_row,identity,true_db_idx,top1_db_idx,top1_identity,top1_similarity,true_similarity,rank1_correct,accepted,correct_accept,false_reject,misidentified,misaccept,model_short_name,condition,base_probe_row,similarity_drop_from_clean
+0,Abdullah Gul,0,0,Abdullah Gul,0.5022477,0.5022477,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,0,0.10189491510391235
+1,Abdullah Gul,0,0,Abdullah Gul,0.4297275,0.4297275,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,1,0.13379532098770142
+2,Abdullah Gul,0,0,Abdullah Gul,0.47758254,0.47758254,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,2,0.11796936392784119
+3,Abdullah Gul,0,0,Abdullah Gul,0.46845087,0.46845087,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,3,0.11131587624549866
+4,Abdullah Gul,0,0,Abdullah Gul,0.30349737,0.30349737,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,4,0.25381171703338623
+5,Abdullah Gul,0,0,Abdullah Gul,0.37734443,0.37734443,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,5,0.006783246994018555
+6,Abdullah Gul,0,0,Abdullah Gul,0.36519262,0.36519262,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,6,0.09417364001274109
+7,Abdullah Gul,0,0,Abdullah Gul,0.40421104,0.40421104,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,7,0.11466431617736816
+8,Ciro Gomes,15,15,Ciro Gomes,0.3610897,0.3610897,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,8,0.19397282600402832
+9,Ciro Gomes,15,93,Victoria Clarke,0.19480363,0.066245385,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,9,0.4867830201983452
+10,Ciro Gomes,15,93,Victoria Clarke,0.19583598,0.19401579,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,10,0.48068584501743317
+11,Ciro Gomes,15,15,Ciro Gomes,0.3495813,0.3495813,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,11,0.20733481645584106
+12,Ricardo Sanchez,72,72,Ricardo Sanchez,0.32602248,0.32602248,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,12,0.2813989222049713
+13,Ricardo Sanchez,72,37,Joe Lieberman,0.19364214,0.14332448,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,13,0.35464777052402496
+14,Ricardo Sanchez,72,95,William Macy,0.18695813,0.15911984,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,14,0.45531392097473145
+15,Ricardo Sanchez,72,72,Ricardo Sanchez,0.4061865,0.4061865,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,15,0.18649354577064514
+16,Ricardo Sanchez,72,6,Binyamin Ben-Eliezer,0.1480532,0.11188313,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,16,0.6008270084857941
+17,Roger Moore,76,76,Roger Moore,0.35600695,0.35600695,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,17,0.2285993993282318
+18,Roger Moore,76,76,Roger Moore,0.36864907,0.36864907,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,18,0.17330443859100342
+19,Roger Moore,76,76,Roger Moore,0.20781583,0.20781583,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,19,0.27573293447494507
+20,Roger Moore,76,76,Roger Moore,0.33225355,0.33225355,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,20,0.2454937994480133
+21,Edmund Stoiber,21,21,Edmund Stoiber,0.21057945,0.21057945,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,21,0.1666017770767212
+22,Edmund Stoiber,21,21,Edmund Stoiber,0.38530916,0.38530916,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,22,0.018462687730789185
+23,Edmund Stoiber,21,21,Edmund Stoiber,0.19940338,0.19940338,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,23,0.28134554624557495
+24,Edmund Stoiber,21,30,Ian Thorpe,0.14142533,0.13713524,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,24,0.2581395208835602
+25,Edmund Stoiber,21,21,Edmund Stoiber,0.22391157,0.22391157,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,25,0.2636338621377945
+26,Edmund Stoiber,21,11,Carla Del Ponte,0.14632381,0.09727613,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,26,0.2647572383284569
+27,Edmund Stoiber,21,93,Victoria Clarke,0.22211617,0.15259069,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,27,0.03956744074821472
+28,Edmund Stoiber,21,11,Carla Del Ponte,0.13991496,0.08455585,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,28,0.20167921483516693
+29,Carmen Electra,12,12,Carmen Electra,0.16961904,0.16961904,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,29,0.20853276550769806
+30,Carmen Electra,12,58,Michael Jackson,0.14966685,0.12609357,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,30,0.5177463293075562
+31,Carmen Electra,12,12,Carmen Electra,0.15134466,0.15134466,True,False,False,True,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,31,0.38340795040130615
+32,Carmen Electra,12,12,Carmen Electra,0.28618288,0.28618288,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,32,0.2490779161453247
+33,Carmen Electra,12,12,Carmen Electra,0.30669177,0.30669177,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,33,0.38754570484161377
+34,Tung Chee-hwa,92,92,Tung Chee-hwa,0.3878066,0.3878066,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,34,0.029282808303833008
+35,Tung Chee-hwa,92,92,Tung Chee-hwa,0.23333663,0.23333663,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,35,0.37248241901397705
+36,Tung Chee-hwa,92,92,Tung Chee-hwa,0.4605565,0.4605565,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,36,0.05848449468612671
+37,Tung Chee-hwa,92,92,Tung Chee-hwa,0.49669152,0.49669152,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,37,0.13930130004882812
+38,Tung Chee-hwa,92,92,Tung Chee-hwa,0.3432814,0.3432814,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,38,0.14427560567855835
+39,Tung Chee-hwa,92,92,Tung Chee-hwa,0.49358356,0.49358356,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,39,-0.024746686220169067
+40,Tung Chee-hwa,92,93,Victoria Clarke,0.23226869,-0.023884825,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,40,0.3552892729640007
+41,Tung Chee-hwa,92,36,Jiang Zemin,0.15647444,0.14910075,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,41,0.3277219831943512
+42,Woody Allen,96,96,Woody Allen,0.4390427,0.4390427,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,42,0.2070174217224121
+43,Woody Allen,96,96,Woody Allen,0.33768368,0.33768368,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,43,0.2604142427444458
+44,Woody Allen,96,96,Woody Allen,0.31115845,0.31115845,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,44,0.004146963357925415
+45,Woody Allen,96,93,Victoria Clarke,0.1997788,0.13571459,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,45,0.24189502000808716
+46,Kim Dae-jung,46,46,Kim Dae-jung,0.4773002,0.4773002,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,46,0.13078126311302185
+47,Kim Dae-jung,46,46,Kim Dae-jung,0.36730152,0.36730152,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,47,0.007291585206985474
+48,Kim Dae-jung,46,46,Kim Dae-jung,0.5104845,0.5104845,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,48,0.1265442967414856
+49,Kim Dae-jung,46,93,Victoria Clarke,0.23377317,0.10544327,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,49,0.4566110074520111
+50,Kim Dae-jung,46,46,Kim Dae-jung,0.18973023,0.18973023,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,50,0.37023603916168213
+51,Kim Dae-jung,46,46,Kim Dae-jung,0.4436227,0.4436227,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,51,0.004475712776184082
+52,Kim Dae-jung,46,46,Kim Dae-jung,0.43510354,0.43510354,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,52,0.03733834624290466
+53,Lleyton Hewitt,51,93,Victoria Clarke,0.20998333,0.07374251,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,53,0.35915547609329224
+54,Lleyton Hewitt,51,51,Lleyton Hewitt,0.28859854,0.28859854,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,54,0.18990164995193481
+55,Lleyton Hewitt,51,51,Lleyton Hewitt,0.424142,0.424142,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,55,0.04563099145889282
+56,Lleyton Hewitt,51,93,Victoria Clarke,0.30495507,0.20234632,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,56,0.3571930527687073
+57,Lleyton Hewitt,51,93,Victoria Clarke,0.21279293,0.1633066,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,57,0.16892361640930176
+58,Lleyton Hewitt,51,51,Lleyton Hewitt,0.44070333,0.44070333,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,58,0.20630204677581787
+59,Lleyton Hewitt,51,52,Madonna,0.16352741,0.07414451,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,59,0.3709079921245575
+60,Lleyton Hewitt,51,51,Lleyton Hewitt,0.39234248,0.39234248,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,60,-0.0006630122661590576
+61,Ben Affleck,4,4,Ben Affleck,0.24591753,0.24591753,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,61,0.15388396382331848
+62,Ben Affleck,4,4,Ben Affleck,0.30356294,0.30356294,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,62,-0.0020107924938201904
+63,Ben Affleck,4,4,Ben Affleck,0.514763,0.514763,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,63,-0.022418618202209473
+64,Ben Affleck,4,4,Ben Affleck,0.49376714,0.49376714,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,64,-0.022490501403808594
+65,Ben Affleck,4,4,Ben Affleck,0.32968706,0.32968706,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,65,-0.024488240480422974
+66,Ben Affleck,4,4,Ben Affleck,0.4896794,0.4896794,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,66,-0.00027695298194885254
+67,Jeremy Greenstock,35,93,Victoria Clarke,0.28012896,0.2345216,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,67,0.4462004005908966
+68,Jeremy Greenstock,35,35,Jeremy Greenstock,0.42568076,0.42568076,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,68,0.03929281234741211
+69,Jeremy Greenstock,35,35,Jeremy Greenstock,0.36764145,0.36764145,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,69,0.381521999835968
+70,Jeremy Greenstock,35,35,Jeremy Greenstock,0.51997507,0.51997507,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,70,0.044544875621795654
+71,Jeremy Greenstock,35,93,Victoria Clarke,0.2665411,0.2625798,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,71,0.19679749011993408
+72,Jeremy Greenstock,35,35,Jeremy Greenstock,0.25857204,0.25857204,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,72,0.3224650025367737
+73,Jeremy Greenstock,35,93,Victoria Clarke,0.21069184,0.12082791,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,73,0.3338572382926941
+74,Jeremy Greenstock,35,93,Victoria Clarke,0.3177678,0.18236327,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,74,0.13134002685546875
+75,David Anderson,19,19,David Anderson,0.33089322,0.33089322,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,75,0.03666740655899048
+76,David Anderson,19,19,David Anderson,0.34651154,0.34651154,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,76,0.021229803562164307
+77,David Anderson,19,52,Madonna,0.1412205,-0.03640764,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,77,0.4428013451397419
+78,David Anderson,19,37,Joe Lieberman,0.18123001,0.15296333,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,78,0.15997399389743805
+79,John Stockton,39,65,Paul Wolfowitz,0.21892713,0.15610981,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,79,0.032867953181266785
+80,John Stockton,39,35,Jeremy Greenstock,0.15488905,0.04464258,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,80,0.20751510933041573
+81,Zhu Rongji,99,99,Zhu Rongji,0.28349632,0.28349632,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,83,0.0838976502418518
+82,Zhu Rongji,99,93,Victoria Clarke,0.27738014,0.071360305,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,84,0.7086571902036667
+83,Zhu Rongji,99,99,Zhu Rongji,0.3352804,0.3352804,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,85,0.1920938789844513
+84,Zhu Rongji,99,99,Zhu Rongji,0.27107915,0.27107915,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,86,0.3943367302417755
+85,Zhu Rongji,99,93,Victoria Clarke,0.14039412,-0.011212744,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,87,0.5779878869652748
+86,Zhu Rongji,99,99,Zhu Rongji,0.42675632,0.42675632,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,88,0.09593325853347778
+87,Zhu Rongji,99,99,Zhu Rongji,0.47384986,0.47384986,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,89,0.23281314969062805
+88,Zhu Rongji,99,11,Carla Del Ponte,0.1790343,0.0007161456,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,90,0.6817117375321686
+89,Mahmoud Abbas,53,53,Mahmoud Abbas,0.3301631,0.3301631,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,91,0.20647099614143372
+90,Mahmoud Abbas,53,53,Mahmoud Abbas,0.37706023,0.37706023,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,92,0.12250891327857971
+91,Mahmoud Abbas,53,0,Abdullah Gul,0.23215997,-0.0058858423,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,93,0.4260422019287944
+92,Mahmoud Abbas,53,11,Carla Del Ponte,0.18229233,0.14258459,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,94,0.3735879957675934
+93,Mahmoud Abbas,53,53,Mahmoud Abbas,0.31548145,0.31548145,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,95,0.21409359574317932
+94,Mahmoud Abbas,53,53,Mahmoud Abbas,0.19895416,0.19895416,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,96,0.25274091958999634
+95,Mahmoud Abbas,53,53,Mahmoud Abbas,0.16964103,0.16964103,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,97,0.3968418091535568
+96,Mahmoud Abbas,53,93,Victoria Clarke,0.19050245,0.05490549,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,98,0.6362916678190231
+97,Gloria Macapagal Arroyo,25,25,Gloria Macapagal Arroyo,0.22099057,0.22099057,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,99,-0.021003752946853638
+98,Gloria Macapagal Arroyo,25,25,Gloria Macapagal Arroyo,0.29052216,0.29052216,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,100,0.05330514907836914
+99,Gloria Macapagal Arroyo,25,29,Hu Jintao,0.17197607,0.16589886,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,101,0.19808274507522583
+100,Gloria Macapagal Arroyo,25,30,Ian Thorpe,0.18774226,0.1675319,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,102,0.22410698235034943
+101,Gloria Macapagal Arroyo,25,23,Erika Harold,0.21702895,0.06318751,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,103,0.2753988206386566
+102,Gloria Macapagal Arroyo,25,25,Gloria Macapagal Arroyo,0.24348919,0.24348919,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,104,0.26184649765491486
+103,Gloria Macapagal Arroyo,25,25,Gloria Macapagal Arroyo,0.3182795,0.3182795,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,105,0.020489752292633057
+104,Gloria Macapagal Arroyo,25,25,Gloria Macapagal Arroyo,0.2392563,0.2392563,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,106,0.17164579033851624
+105,Steven Spielberg,84,98,Yasser Arafat,0.19038877,0.10397112,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,107,0.5600787401199341
+106,Steven Spielberg,84,98,Yasser Arafat,0.18874915,0.114386216,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,109,0.3381900042295456
+107,Steven Spielberg,84,84,Steven Spielberg,0.21909451,0.21909451,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,110,0.4709371328353882
+108,Steven Spielberg,84,84,Steven Spielberg,0.2161561,0.2161561,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,112,0.24378103017807007
+109,Norm Coleman,63,63,Norm Coleman,0.30979472,0.30979472,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,113,0.09909248352050781
+110,Norm Coleman,63,24,George W Bush,0.18500751,0.15928757,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,114,0.19515782594680786
+111,Norm Coleman,63,14,Chanda Rubin,0.12192474,0.092158854,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,115,0.4888826012611389
+112,Norm Coleman,63,63,Norm Coleman,0.37206852,0.37206852,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,116,0.06228971481323242
+113,Norm Coleman,63,93,Victoria Clarke,0.15728027,0.14087051,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,117,0.26723945140838623
+114,Norm Coleman,63,93,Victoria Clarke,0.2039459,0.14247437,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,118,0.2902026027441025
+115,Catherine Zeta-Jones,13,93,Victoria Clarke,0.17853919,-0.06288783,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,119,0.4909673482179642
+116,Catherine Zeta-Jones,13,13,Catherine Zeta-Jones,0.29802537,0.29802537,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,120,0.27004992961883545
+117,Catherine Zeta-Jones,13,0,Abdullah Gul,0.17459126,-0.0071825553,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,121,0.43851025588810444
+118,Catherine Zeta-Jones,13,30,Ian Thorpe,0.1503427,0.12636967,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,122,0.3724208325147629
+119,Catherine Zeta-Jones,13,13,Catherine Zeta-Jones,0.18251796,0.18251796,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,123,0.2667529731988907
+120,Catherine Zeta-Jones,13,31,JK Rowling,0.17628027,0.12254009,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,124,0.1697249412536621
+121,Catherine Zeta-Jones,13,31,JK Rowling,0.17221662,0.15464729,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,125,0.2473336160182953
+122,Catherine Zeta-Jones,13,13,Catherine Zeta-Jones,0.32152253,0.32152253,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,126,0.24398791790008545
+123,Robert Blake,74,74,Robert Blake,0.37004644,0.37004644,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,127,0.3591158390045166
+124,Robert Blake,74,74,Robert Blake,0.20764449,0.20764449,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,128,0.2814328968524933
+125,Robert Blake,74,93,Victoria Clarke,0.1220022,-0.025869856,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,129,0.42852247692644596
+126,Robert Blake,74,37,Joe Lieberman,0.16718465,0.14863694,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,130,0.24955791234970093
+127,Robert Blake,74,94,Wen Jiabao,0.13794975,0.010978663,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,131,0.34993777237832546
+128,Robert Blake,74,64,Paul Martin,0.10272804,0.07633841,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,132,0.319663405418396
+129,Robert Blake,74,87,Tim Henman,0.1613437,0.1503789,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,133,0.4760959595441818
+130,Queen Elizabeth II,69,93,Victoria Clarke,0.39840466,0.30398554,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,134,0.13393977284431458
+131,Queen Elizabeth II,69,69,Queen Elizabeth II,0.31346574,0.31346574,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,135,0.03662693500518799
+132,Queen Elizabeth II,69,69,Queen Elizabeth II,0.36595756,0.36595756,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,136,-0.02274024486541748
+133,Queen Elizabeth II,69,69,Queen Elizabeth II,0.18942702,0.18942702,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,137,0.2664302587509155
+134,Queen Elizabeth II,69,69,Queen Elizabeth II,0.21576747,0.21576747,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,138,0.08845430612564087
+135,Queen Elizabeth II,69,69,Queen Elizabeth II,0.16102174,0.16102174,True,False,False,True,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,139,0.1493091583251953
+136,Queen Elizabeth II,69,69,Queen Elizabeth II,0.36042964,0.36042964,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,140,0.04326462745666504
+137,Queen Elizabeth II,69,69,Queen Elizabeth II,0.31638265,0.31638265,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,141,0.19665229320526123
+138,Martha Stewart,55,93,Victoria Clarke,0.22768608,0.1250148,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,142,0.4738228768110275
+139,Martha Stewart,55,30,Ian Thorpe,0.17252699,0.043419223,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,143,0.4938691444694996
+140,Martha Stewart,55,93,Victoria Clarke,0.2326131,0.08821273,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,144,0.4632566571235657
+141,Martha Stewart,55,55,Martha Stewart,0.20918609,0.20918609,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,145,0.12393607199192047
+142,Robert Kocharian,75,75,Robert Kocharian,0.5200002,0.5200002,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,146,0.1281745433807373
+143,Robert Kocharian,75,75,Robert Kocharian,0.5475677,0.5475677,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,147,0.13987815380096436
+144,Robert Kocharian,75,75,Robert Kocharian,0.42379558,0.42379558,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,148,0.19005000591278076
+145,Robert Kocharian,75,75,Robert Kocharian,0.44960862,0.44960862,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,149,0.002693772315979004
+146,Scott Peterson,80,80,Scott Peterson,0.3830841,0.3830841,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,150,0.13471302390098572
+147,Scott Peterson,80,80,Scott Peterson,0.25545973,0.25545973,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,151,0.19116699695587158
+148,Scott Peterson,80,80,Scott Peterson,0.26606613,0.26606613,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,152,0.19609662890434265
+149,Scott Peterson,80,80,Scott Peterson,0.35061044,0.35061044,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,153,0.17316240072250366
+150,Ray Romano,70,37,Joe Lieberman,0.18314724,0.17365003,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,154,0.3947014808654785
+151,Ray Romano,70,70,Ray Romano,0.19751194,0.19751194,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,155,0.36077579855918884
+152,Ray Romano,70,70,Ray Romano,0.40212053,0.40212053,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,156,0.19641506671905518
+153,Ray Romano,70,70,Ray Romano,0.23321167,0.23321167,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,157,0.3016398847103119
+154,Ray Romano,70,70,Ray Romano,0.40891373,0.40891373,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,158,0.12113261222839355
+155,Ray Romano,70,70,Ray Romano,0.3604924,0.3604924,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,159,0.08426013588905334
+156,Ray Romano,70,23,Erika Harold,0.12987371,0.12765017,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,160,0.29276803135871887
+157,Ray Romano,70,70,Ray Romano,0.38771033,0.38771033,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,161,0.24284565448760986
+158,Mark Hurlbert,54,54,Mark Hurlbert,0.24554409,0.24554409,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,162,0.2878691405057907
+159,Mark Hurlbert,54,54,Mark Hurlbert,0.31525928,0.31525928,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,163,0.05765646696090698
+160,Mark Hurlbert,54,30,Ian Thorpe,0.17598096,-0.009602133,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,164,0.46467286720871925
+161,Mark Hurlbert,54,54,Mark Hurlbert,0.2788268,0.2788268,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,165,0.35857245326042175
+162,Silvan Shalom,82,82,Silvan Shalom,0.4838307,0.4838307,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,166,0.04326176643371582
+163,Silvan Shalom,82,82,Silvan Shalom,0.2867661,0.2867661,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,167,0.041116297245025635
+164,Silvan Shalom,82,76,Roger Moore,0.13648163,0.081004426,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,169,0.2934613674879074
+165,Silvan Shalom,82,82,Silvan Shalom,0.5977456,0.5977456,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,170,0.16309750080108643
+166,Britney Spears,9,30,Ian Thorpe,0.19726428,0.19483835,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,171,0.23678946495056152
+167,Britney Spears,9,11,Carla Del Ponte,0.1893463,0.16856147,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,172,0.2521088868379593
+168,Britney Spears,9,34,Jennifer Aniston,0.20047006,0.13056087,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,173,0.23778802156448364
+169,Britney Spears,9,30,Ian Thorpe,0.1628947,0.033099357,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,174,0.3538154922425747
+170,Britney Spears,9,11,Carla Del Ponte,0.19171536,0.12544128,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,175,0.26599159836769104
+171,Britney Spears,9,34,Jennifer Aniston,0.1963987,0.16462365,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,176,0.12153732776641846
+172,Britney Spears,9,27,Heidi Klum,0.17516565,0.14359456,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,177,0.18756312131881714
+173,Britney Spears,9,34,Jennifer Aniston,0.19182062,0.1499477,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,178,0.29904448986053467
+174,Gunter Pleuger,26,26,Gunter Pleuger,0.40676737,0.40676737,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,179,0.10464835166931152
+175,Gunter Pleuger,26,0,Abdullah Gul,0.25978994,0.24745478,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,180,0.27782391011714935
+176,Gunter Pleuger,26,26,Gunter Pleuger,0.44140548,0.44140548,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,181,0.18057280778884888
+177,Gunter Pleuger,26,26,Gunter Pleuger,0.37729526,0.37729526,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,182,0.1963493824005127
+178,Gunter Pleuger,26,26,Gunter Pleuger,0.28461865,0.28461865,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,183,0.27095696330070496
+179,Gunter Pleuger,26,26,Gunter Pleuger,0.56261384,0.56261384,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,184,0.1221664547920227
+180,Tom Daschle,89,95,William Macy,0.20475742,0.20279883,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,185,0.3282083421945572
+181,Tom Daschle,89,58,Michael Jackson,0.16142532,0.12842533,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,186,0.5188522636890411
+182,Tom Daschle,89,89,Tom Daschle,0.4469974,0.4469974,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,187,0.21069061756134033
+183,Tom Daschle,89,36,Jiang Zemin,0.14922939,0.11107605,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,188,0.5069034770131111
+184,Tom Daschle,89,89,Tom Daschle,0.29583085,0.29583085,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,189,0.4251907467842102
+185,Tom Daschle,89,89,Tom Daschle,0.24509585,0.24509585,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,190,0.3112117052078247
+186,Tom Daschle,89,89,Tom Daschle,0.4446071,0.4446071,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,191,-0.021464914083480835
+187,Tom Daschle,89,93,Victoria Clarke,0.23579659,0.122341424,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,192,0.49540290236473083
+188,Ian Thorpe,30,30,Ian Thorpe,0.18257838,0.18257838,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,193,0.24966198205947876
+189,Ian Thorpe,30,30,Ian Thorpe,0.33131492,0.33131492,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,194,0.10514584183692932
+190,Ian Thorpe,30,30,Ian Thorpe,0.23902681,0.23902681,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,195,0.19445785880088806
+191,Ian Thorpe,30,30,Ian Thorpe,0.23261404,0.23261404,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,196,0.13156616687774658
+192,Ian Thorpe,30,30,Ian Thorpe,0.34822643,0.34822643,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,197,0.012101620435714722
+193,Ian Thorpe,30,30,Ian Thorpe,0.25175583,0.25175583,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,198,0.21684694290161133
+194,Ian Thorpe,30,30,Ian Thorpe,0.29774666,0.29774666,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,199,0.20745152235031128
+195,Ian Thorpe,30,30,Ian Thorpe,0.26694682,0.26694682,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,200,0.1592799723148346
+196,Tommy Haas,90,93,Victoria Clarke,0.23894085,0.12488316,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,201,0.37540532648563385
+197,Tommy Haas,90,14,Chanda Rubin,0.15756148,-0.006461762,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,203,0.4421329125761986
+198,Tommy Haas,90,83,Sourav Ganguly,0.24724948,0.14193541,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,204,0.2913820147514343
+199,Tommy Haas,90,93,Victoria Clarke,0.21386948,0.08180188,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,205,0.5033620744943619
+200,John Allen Muhammad,38,38,John Allen Muhammad,0.3797083,0.3797083,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,206,0.35069739818573
+201,John Allen Muhammad,38,38,John Allen Muhammad,0.41771132,0.41771132,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,207,0.3031488060951233
+202,John Allen Muhammad,38,38,John Allen Muhammad,0.17831244,0.17831244,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,208,0.5285217612981796
+203,John Allen Muhammad,38,38,John Allen Muhammad,0.38651222,0.38651222,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,209,0.14894038438796997
+204,John Allen Muhammad,38,38,John Allen Muhammad,0.1854401,0.1854401,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,210,0.41968873143196106
+205,John Allen Muhammad,38,38,John Allen Muhammad,0.53622377,0.53622377,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,211,0.2933419942855835
+206,John Allen Muhammad,38,38,John Allen Muhammad,0.26992837,0.26992837,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,212,0.4234568178653717
+207,John Allen Muhammad,38,38,John Allen Muhammad,0.6448825,0.6448825,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,213,0.08650654554367065
+208,Ari Fleischer,3,3,Ari Fleischer,0.30061358,0.30061358,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,214,0.1464422345161438
+209,Ari Fleischer,3,3,Ari Fleischer,0.5404035,0.5404035,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,215,0.15909361839294434
+210,Ari Fleischer,3,3,Ari Fleischer,0.24086317,0.24086317,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,216,0.29158952832221985
+211,Ari Fleischer,3,3,Ari Fleischer,0.63525194,0.63525194,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,217,0.09783977270126343
+212,Ari Fleischer,3,3,Ari Fleischer,0.20581256,0.20581256,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,218,0.022941455245018005
+213,Ari Fleischer,3,3,Ari Fleischer,0.4185974,0.4185974,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,219,0.323417603969574
+214,Ari Fleischer,3,3,Ari Fleischer,0.23933065,0.23933065,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,220,0.07000672817230225
+215,Ari Fleischer,3,94,Wen Jiabao,0.15102449,0.12383807,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,221,0.6064336895942688
+216,Tim Henman,87,30,Ian Thorpe,0.2156842,0.016362958,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,222,0.23051869124174118
+217,Tim Henman,87,87,Tim Henman,0.40599772,0.40599772,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,223,0.1211039125919342
+218,Tim Henman,87,93,Victoria Clarke,0.27782387,0.073886305,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,224,0.30096983909606934
+219,Tim Henman,87,30,Ian Thorpe,0.22946343,0.10445606,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,225,0.24158436805009842
+220,Tim Henman,87,87,Tim Henman,0.17668413,0.17668413,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,226,0.10401172935962677
+221,Tim Henman,87,76,Roger Moore,0.14844769,0.08297761,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,227,0.38370542228221893
+222,Tim Henman,87,93,Victoria Clarke,0.15568864,0.08824345,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,228,0.3658931031823158
+223,Tim Henman,87,93,Victoria Clarke,0.17653087,0.104872294,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,229,0.30058275908231735
+224,Ahmed Chalabi,1,1,Ahmed Chalabi,0.2226179,0.2226179,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,230,0.4457572400569916
+225,Ahmed Chalabi,1,1,Ahmed Chalabi,0.56461096,0.56461096,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,231,0.1603618860244751
+226,Ahmed Chalabi,1,1,Ahmed Chalabi,0.3358721,0.3358721,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,232,0.44558173418045044
+227,Ahmed Chalabi,1,1,Ahmed Chalabi,0.42572907,0.42572907,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,233,0.23009416460990906
+228,Tom Cruise,88,88,Tom Cruise,0.19392851,0.19392851,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,234,0.09846022725105286
+229,Tom Cruise,88,88,Tom Cruise,0.22101896,0.22101896,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,235,0.11643089354038239
+230,Tom Cruise,88,88,Tom Cruise,0.3015347,0.3015347,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,236,0.19566303491592407
+231,Tom Cruise,88,78,Rubens Barrichello,0.13862216,0.11311834,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,237,0.2988222613930702
+232,Tom Cruise,88,88,Tom Cruise,0.40352148,0.40352148,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,238,0.03602665662765503
+233,Tom Cruise,88,88,Tom Cruise,0.14446877,0.14446877,True,False,False,True,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,239,0.34475077688694
+234,Tom Cruise,88,88,Tom Cruise,0.25928444,0.25928444,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,240,0.09959733486175537
+235,Tom Cruise,88,88,Tom Cruise,0.41068852,0.41068852,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,241,0.06082090735435486
+236,JK Rowling,31,0,Abdullah Gul,0.11793039,-0.014905273,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,242,0.25481569673866034
+237,JK Rowling,31,63,Norm Coleman,0.14153498,0.119756855,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,243,0.4191325530409813
+238,JK Rowling,31,11,Carla Del Ponte,0.15686774,0.104794115,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,244,0.4878888428211212
+239,JK Rowling,31,31,JK Rowling,0.18102932,0.18102932,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,245,0.4341301918029785
+240,JK Rowling,31,76,Roger Moore,0.15319999,0.022658078,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,246,0.3198936004191637
+241,Elizabeth Smart,22,22,Elizabeth Smart,0.49946564,0.49946564,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,247,0.02949625253677368
+242,Elizabeth Smart,22,22,Elizabeth Smart,0.25396454,0.25396454,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,248,0.13421982526779175
+243,Elizabeth Smart,22,36,Jiang Zemin,0.23585379,0.095186666,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,249,0.31385694444179535
+244,Elizabeth Smart,22,93,Victoria Clarke,0.20210534,0.071803465,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,250,0.4075198620557785
+245,Jennifer Aniston,34,34,Jennifer Aniston,0.39703196,0.39703196,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,251,0.14231246709823608
+246,Jennifer Aniston,34,93,Victoria Clarke,0.18871665,-0.030752828,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,252,0.622424891218543
+247,Jennifer Aniston,34,34,Jennifer Aniston,0.26825267,0.26825267,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,253,0.27162057161331177
+248,Jennifer Aniston,34,36,Jiang Zemin,0.15768646,-0.0002673678,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,254,0.39209405705332756
+249,Jennifer Aniston,34,93,Victoria Clarke,0.2945649,-0.002724927,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,255,0.40445004031062126
+250,Jennifer Aniston,34,93,Victoria Clarke,0.22141895,0.07243309,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,256,0.4209180101752281
+251,Jennifer Aniston,34,52,Madonna,0.15656352,0.10462229,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,257,0.4208594113588333
+252,Jennifer Aniston,34,34,Jennifer Aniston,0.49310642,0.49310642,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,258,0.003039717674255371
+253,George W Bush,24,24,George W Bush,0.2965794,0.2965794,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,259,0.2856445014476776
+254,George W Bush,24,24,George W Bush,0.35323134,0.35323134,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,260,0.050038695335388184
+255,George W Bush,24,24,George W Bush,0.3493713,0.3493713,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,261,-0.014846116304397583
+256,George W Bush,24,24,George W Bush,0.3529746,0.3529746,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,262,-0.012433409690856934
+257,George W Bush,24,11,Carla Del Ponte,0.17683536,0.04651764,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,263,0.4538505971431732
+258,George W Bush,24,24,George W Bush,0.2772245,0.2772245,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,264,0.2546112835407257
+259,George W Bush,24,24,George W Bush,0.42778265,0.42778265,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,265,0.10412812232971191
+260,George W Bush,24,93,Victoria Clarke,0.20573807,0.12065458,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,266,0.2177230715751648
+261,Joseph Biden,43,43,Joseph Biden,0.49163693,0.49163693,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,267,0.13181453943252563
+262,Joseph Biden,43,11,Carla Del Ponte,0.19001997,0.033327006,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,268,0.4937201514840126
+263,Joseph Biden,43,43,Joseph Biden,0.2396487,0.2396487,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,269,0.26707959175109863
+264,Joseph Biden,43,43,Joseph Biden,0.5378916,0.5378916,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,270,0.05278909206390381
+265,Billy Crystal,5,5,Billy Crystal,0.21610174,0.21610174,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,271,0.3436416685581207
+266,Billy Crystal,5,5,Billy Crystal,0.300144,0.300144,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,272,0.02896973490715027
+267,Billy Crystal,5,5,Billy Crystal,0.417501,0.417501,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,273,0.03536021709442139
+268,Billy Crystal,5,5,Billy Crystal,0.495499,0.495499,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,274,0.1227271556854248
+269,Billy Crystal,5,5,Billy Crystal,0.4344285,0.4344285,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,275,-0.0017245113849639893
+270,Rob Marshall,73,73,Rob Marshall,0.56960166,0.56960166,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,276,0.22246772050857544
+271,Rob Marshall,73,30,Ian Thorpe,0.17173824,0.09584808,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,277,0.47942793369293213
+272,Rob Marshall,73,93,Victoria Clarke,0.18828145,0.10462744,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,278,0.39011048525571823
+273,Rob Marshall,73,93,Victoria Clarke,0.19375235,0.1220718,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,279,0.36887532472610474
+274,Rob Marshall,73,73,Rob Marshall,0.19141136,0.19141136,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,280,0.36000026762485504
+275,Madonna,52,11,Carla Del Ponte,0.1650571,0.08000881,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,281,0.251746766269207
+276,Madonna,52,93,Victoria Clarke,0.23020053,0.1417036,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,282,0.18683016300201416
+277,Madonna,52,93,Victoria Clarke,0.20618358,0.11011872,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,284,0.28125521540641785
+278,Kevin Spacey,45,45,Kevin Spacey,0.3318076,0.3318076,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,285,0.3394218683242798
+279,Kevin Spacey,45,45,Kevin Spacey,0.35892117,0.35892117,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,286,0.3987884521484375
+280,Kevin Spacey,45,45,Kevin Spacey,0.5390552,0.5390552,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,287,0.08539903163909912
+281,Kevin Spacey,45,45,Kevin Spacey,0.26724005,0.26724005,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,288,0.36026108264923096
+282,Calista Flockhart,10,10,Calista Flockhart,0.38059866,0.38059866,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,289,0.1712024211883545
+283,Calista Flockhart,10,10,Calista Flockhart,0.18521589,0.18521589,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,290,0.26679301261901855
+284,Calista Flockhart,10,52,Madonna,0.12646513,0.0425706,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,291,0.4537151977419853
+285,Calista Flockhart,10,10,Calista Flockhart,0.32382858,0.32382858,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,292,0.2215617299079895
+286,Calista Flockhart,10,10,Calista Flockhart,0.3717957,0.3717957,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,293,0.08302950859069824
+287,Erika Harold,23,23,Erika Harold,0.18186957,0.18186957,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,294,0.4938356280326843
+288,Erika Harold,23,93,Victoria Clarke,0.16746181,0.055637,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,295,0.5389443673193455
+289,Erika Harold,23,23,Erika Harold,0.3539431,0.3539431,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,296,0.09574127197265625
+290,Erika Harold,23,93,Victoria Clarke,0.13548732,0.13359627,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,297,0.46967026591300964
+291,Li Zhaoxing,49,49,Li Zhaoxing,0.17911905,0.17911905,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,298,0.44552791118621826
+292,Li Zhaoxing,49,70,Ray Romano,0.16550556,0.11372961,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,299,0.5172232240438461
+293,Li Zhaoxing,49,52,Madonna,0.121568084,0.022468815,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,300,0.5476105120033026
+294,Li Zhaoxing,49,11,Carla Del Ponte,0.19059706,0.08654272,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,301,0.5252568796277046
+295,Li Zhaoxing,49,92,Tung Chee-hwa,0.19776994,0.15533464,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,303,0.5004057437181473
+296,Li Zhaoxing,49,49,Li Zhaoxing,0.19070193,0.19070193,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,304,0.46620646119117737
+297,Paul Wolfowitz,65,93,Victoria Clarke,0.21722534,0.12883836,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,305,0.3024700880050659
+298,Paul Wolfowitz,65,65,Paul Wolfowitz,0.23585397,0.23585397,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,306,0.12572771310806274
+299,Paul Wolfowitz,65,65,Paul Wolfowitz,0.23970088,0.23970088,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,307,0.07296383380889893
+300,Paul Wolfowitz,65,65,Paul Wolfowitz,0.23121616,0.23121616,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,308,0.1412581503391266
+301,Paul Wolfowitz,65,65,Paul Wolfowitz,0.26252878,0.26252878,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,309,0.16446149349212646
+302,Paul Wolfowitz,65,93,Victoria Clarke,0.22469935,0.18492009,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,310,0.20539389550685883
+303,Paul Wolfowitz,65,65,Paul Wolfowitz,0.28292495,0.28292495,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,311,0.035772621631622314
+304,Paul Wolfowitz,65,21,Edmund Stoiber,0.19120157,0.15292048,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,312,0.15174800157546997
+305,Nicanor Duarte Frutos,61,93,Victoria Clarke,0.16892195,0.019938292,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,313,0.47660338692367077
+306,Nicanor Duarte Frutos,61,61,Nicanor Duarte Frutos,0.40665138,0.40665138,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,314,0.06276369094848633
+307,Nicanor Duarte Frutos,61,61,Nicanor Duarte Frutos,0.5537087,0.5537087,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,315,0.06671619415283203
+308,Nicanor Duarte Frutos,61,6,Binyamin Ben-Eliezer,0.19932109,0.13442576,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,316,0.22287273406982422
+309,Nicanor Duarte Frutos,61,61,Nicanor Duarte Frutos,0.31014517,0.31014517,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,317,0.11118626594543457
+310,Nicanor Duarte Frutos,61,61,Nicanor Duarte Frutos,0.31729233,0.31729233,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,318,0.17381858825683594
+311,Nicanor Duarte Frutos,61,61,Nicanor Duarte Frutos,0.38797757,0.38797757,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,319,0.08620402216911316
+312,Nicanor Duarte Frutos,61,96,Woody Allen,0.16463031,0.16203517,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,320,0.20260417461395264
+313,Jose Manuel Durao Barroso,42,42,Jose Manuel Durao Barroso,0.2086837,0.2086837,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,321,0.3865460455417633
+314,Jose Manuel Durao Barroso,42,42,Jose Manuel Durao Barroso,0.19675045,0.19675045,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,322,0.191214457154274
+315,Jose Manuel Durao Barroso,42,42,Jose Manuel Durao Barroso,0.30436528,0.30436528,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,323,-0.010142326354980469
+316,Jose Manuel Durao Barroso,42,32,Jason Kidd,0.14751308,0.09097128,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,324,0.26586223393678665
+317,Jose Manuel Durao Barroso,42,42,Jose Manuel Durao Barroso,0.2957398,0.2957398,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,325,0.3383422791957855
+318,Brad Johnson,8,8,Brad Johnson,0.31485578,0.31485578,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,326,0.12567070126533508
+319,Brad Johnson,8,8,Brad Johnson,0.31985983,0.31985983,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,327,0.11409521102905273
+320,Brad Johnson,8,93,Victoria Clarke,0.32328796,0.15202218,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,328,0.3103954493999481
+321,Brad Johnson,8,8,Brad Johnson,0.18549754,0.18549754,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,329,0.381378635764122
+322,Peter Struck,67,67,Peter Struck,0.35934085,0.35934085,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,330,-0.03845417499542236
+323,Peter Struck,67,67,Peter Struck,0.36684728,0.36684728,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,331,0.016290247440338135
+324,Peter Struck,67,67,Peter Struck,0.35236043,0.35236043,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,332,-0.04529905319213867
+325,Peter Struck,67,67,Peter Struck,0.30855882,0.30855882,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,333,-0.007255971431732178
+326,Shimon Peres,81,81,Shimon Peres,0.33673558,0.33673558,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,334,0.22212883830070496
+327,Shimon Peres,81,81,Shimon Peres,0.20783553,0.20783553,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,335,0.4411830008029938
+328,Shimon Peres,81,11,Carla Del Ponte,0.15863645,0.13012582,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,336,0.5051916241645813
+329,Shimon Peres,81,37,Joe Lieberman,0.22948256,0.14355153,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,337,0.49731606245040894
+330,Shimon Peres,81,81,Shimon Peres,0.56177557,0.56177557,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,338,0.13402098417282104
+331,Shimon Peres,81,81,Shimon Peres,0.36487886,0.36487886,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,339,0.00929972529411316
+332,Shimon Peres,81,81,Shimon Peres,0.51086444,0.51086444,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,340,0.06768792867660522
+333,Michael Jackson,58,58,Michael Jackson,0.27853227,0.27853227,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,341,0.2985060214996338
+334,Michael Jackson,58,94,Wen Jiabao,0.14930582,0.11506112,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,342,0.6730199307203293
+335,Michael Jackson,58,58,Michael Jackson,0.24960372,0.24960372,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,343,0.23481562733650208
+336,Michael Jackson,58,26,Gunter Pleuger,0.115882926,0.0032571042,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,344,0.43835737463086843
+337,Michael Jackson,58,93,Victoria Clarke,0.16761953,0.11664795,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,345,0.6281786039471626
+338,Michael Jackson,58,36,Jiang Zemin,0.16263407,0.030101443,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,346,0.2265785988420248
+339,Michael Jackson,58,35,Jeremy Greenstock,0.14291541,0.04395538,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,347,0.49665380269289017
+340,Michael Jackson,58,26,Gunter Pleuger,0.14766169,0.08455056,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,348,0.4593011736869812
+341,Pierce Brosnan,68,68,Pierce Brosnan,0.38428533,0.38428533,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,349,0.13189101219177246
+342,Pierce Brosnan,68,68,Pierce Brosnan,0.37559307,0.37559307,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,350,0.1706639528274536
+343,Pierce Brosnan,68,68,Pierce Brosnan,0.17939383,0.17939383,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,351,0.31077849864959717
+344,Pierce Brosnan,68,68,Pierce Brosnan,0.22731452,0.22731452,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,352,0.1986606866121292
+345,Pierce Brosnan,68,95,William Macy,0.15934844,0.15426752,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,353,0.2569534182548523
+346,Pierce Brosnan,68,4,Ben Affleck,0.17701423,0.13511665,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,354,0.36648862063884735
+347,Pierce Brosnan,68,76,Roger Moore,0.14716719,0.14667547,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,355,0.3776262402534485
+348,Pierce Brosnan,68,37,Joe Lieberman,0.20480697,0.1797063,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,356,0.32718250155448914
+349,Joe Lieberman,37,37,Joe Lieberman,0.35889763,0.35889763,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,357,-0.02640378475189209
+350,Joe Lieberman,37,37,Joe Lieberman,0.30759358,0.30759358,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,358,0.06405329704284668
+351,Joe Lieberman,37,21,Edmund Stoiber,0.17424288,0.11743559,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,359,0.2988538295030594
+352,Joe Lieberman,37,37,Joe Lieberman,0.29020798,0.29020798,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,360,0.11094662547111511
+353,Joe Lieberman,37,37,Joe Lieberman,0.2886745,0.2886745,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,361,0.05024021863937378
+354,Joe Lieberman,37,37,Joe Lieberman,0.3266911,0.3266911,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,362,0.07658955454826355
+355,Joe Lieberman,37,21,Edmund Stoiber,0.2218597,0.1986306,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,363,0.15834784507751465
+356,Joe Lieberman,37,37,Joe Lieberman,0.29611412,0.29611412,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,364,0.21522465348243713
+357,Wen Jiabao,94,94,Wen Jiabao,0.6197771,0.6197771,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,365,0.1468966007232666
+358,Wen Jiabao,94,58,Michael Jackson,0.17743324,0.15420346,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,366,0.41435177624225616
+359,Wen Jiabao,94,94,Wen Jiabao,0.5388279,0.5388279,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,367,0.07663047313690186
+360,Wen Jiabao,94,93,Victoria Clarke,0.11762637,0.09714109,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,368,0.4426996111869812
+361,Wen Jiabao,94,94,Wen Jiabao,0.5388877,0.5388877,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,369,0.15322858095169067
+362,Wen Jiabao,94,94,Wen Jiabao,0.34090734,0.34090734,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,370,0.29574066400527954
+363,Wen Jiabao,94,94,Wen Jiabao,0.3373329,0.3373329,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,371,0.1573268175125122
+364,Wen Jiabao,94,0,Abdullah Gul,0.19549169,0.0896395,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,372,0.4808798283338547
+365,Colin Farrell,16,16,Colin Farrell,0.4711613,0.4711613,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,373,0.13458651304244995
+366,Colin Farrell,16,58,Michael Jackson,0.1407158,0.052140363,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,374,0.4760407730937004
+367,Colin Farrell,16,78,Rubens Barrichello,0.1738005,0.085672215,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,375,0.432143434882164
+368,Colin Farrell,16,16,Colin Farrell,0.2603998,0.2603998,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,376,0.28161540627479553
+369,Colin Farrell,16,76,Roger Moore,0.1572485,0.12236931,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,377,0.4061557427048683
+370,Colin Farrell,16,93,Victoria Clarke,0.17887525,0.110468596,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,378,0.525909811258316
+371,Colin Farrell,16,21,Edmund Stoiber,0.15424016,0.063366026,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,379,0.5093386471271515
+372,Colin Farrell,16,70,Ray Romano,0.12871341,-0.043791417,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,380,0.6716094650328159
+373,Holly Hunter,28,28,Holly Hunter,0.28344858,0.28344858,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,381,0.2482239007949829
+374,Holly Hunter,28,28,Holly Hunter,0.47698328,0.47698328,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,382,-0.011912554502487183
+375,Holly Hunter,28,28,Holly Hunter,0.27567655,0.27567655,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,383,0.24895364046096802
+376,Holly Hunter,28,27,Heidi Klum,0.2263779,0.20540819,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,384,0.264822393655777
+377,Holly Hunter,28,52,Madonna,0.18093544,0.09907813,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,385,0.2858993858098984
+378,Holly Hunter,28,28,Holly Hunter,0.33023176,0.33023176,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,386,0.12265369296073914
+379,William Macy,95,95,William Macy,0.3121866,0.3121866,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,387,0.05066782236099243
+380,William Macy,95,76,Roger Moore,0.13607733,0.11056667,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,388,0.5927651599049568
+381,William Macy,95,35,Jeremy Greenstock,0.13706058,0.0891929,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,389,0.6435444056987762
+382,Binyamin Ben-Eliezer,6,6,Binyamin Ben-Eliezer,0.40286195,0.40286195,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,391,0.03989970684051514
+383,Binyamin Ben-Eliezer,6,6,Binyamin Ben-Eliezer,0.21530958,0.21530958,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,392,0.21255002915859222
+384,Binyamin Ben-Eliezer,6,6,Binyamin Ben-Eliezer,0.21725547,0.21725547,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,393,0.36403369903564453
+385,Binyamin Ben-Eliezer,6,6,Binyamin Ben-Eliezer,0.50551724,0.50551724,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,394,0.057468950748443604
+386,Binyamin Ben-Eliezer,6,6,Binyamin Ben-Eliezer,0.37457126,0.37457126,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,395,0.07964226603507996
+387,Binyamin Ben-Eliezer,6,6,Binyamin Ben-Eliezer,0.2617721,0.2617721,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,396,0.3728777766227722
+388,Hu Jintao,29,29,Hu Jintao,0.33550882,0.33550882,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,397,0.27508628368377686
+389,Hu Jintao,29,29,Hu Jintao,0.37761152,0.37761152,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,398,0.011125504970550537
+390,Hu Jintao,29,29,Hu Jintao,0.35197133,0.35197133,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,399,0.14543533325195312
+391,Hu Jintao,29,37,Joe Lieberman,0.23079363,0.17884988,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,400,0.1422187089920044
+392,Hu Jintao,29,93,Victoria Clarke,0.15069716,0.069509685,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,401,0.5104199051856995
+393,Hu Jintao,29,29,Hu Jintao,0.3781746,0.3781746,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,402,0.13136690855026245
+394,Hu Jintao,29,29,Hu Jintao,0.24357092,0.24357092,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,403,0.32066208124160767
+395,Hu Jintao,29,29,Hu Jintao,0.248425,0.248425,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,404,0.20525044202804565
+396,Norah Jones,62,62,Norah Jones,0.23057261,0.23057261,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,405,0.10381275415420532
+397,Norah Jones,62,93,Victoria Clarke,0.2658788,0.1376993,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,406,0.08642768859863281
+398,Norah Jones,62,30,Ian Thorpe,0.16657647,0.11147222,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,407,0.3732213079929352
+399,Norah Jones,62,26,Gunter Pleuger,0.132657,0.068314634,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,408,0.4198804870247841
+400,Norah Jones,62,30,Ian Thorpe,0.16969371,0.09857131,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,409,0.46277832239866257
+401,Norah Jones,62,11,Carla Del Ponte,0.18248612,0.15194489,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,410,0.374842032790184
+402,Norah Jones,62,62,Norah Jones,0.3290658,0.3290658,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,411,0.16018015146255493
+403,Norah Jones,62,93,Victoria Clarke,0.1729373,0.12916487,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,412,0.2976672649383545
+404,Jean-Pierre Raffarin,33,30,Ian Thorpe,0.16110022,0.10198063,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,413,0.2958243787288666
+405,Jean-Pierre Raffarin,33,93,Victoria Clarke,0.13229251,0.12412114,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,414,0.3164573535323143
+406,Jean-Pierre Raffarin,33,31,JK Rowling,0.12806275,0.07365886,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,415,0.21900632232427597
+407,Jean-Pierre Raffarin,33,94,Wen Jiabao,0.13661213,0.013788114,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,416,0.34637244511395693
+408,Jean-Pierre Raffarin,33,6,Binyamin Ben-Eliezer,0.124659054,0.08356841,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,417,0.26660187542438507
+409,Jean-Pierre Raffarin,33,33,Jean-Pierre Raffarin,0.19335021,0.19335021,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,418,0.22473426163196564
+410,Salma Hayek,79,0,Abdullah Gul,0.15550321,0.012330869,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,419,0.5326603855937719
+411,Salma Hayek,79,79,Salma Hayek,0.18363756,0.18363756,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,420,0.12727051973342896
+412,Salma Hayek,79,79,Salma Hayek,0.17618266,0.17618266,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,421,0.36181768774986267
+413,Salma Hayek,79,14,Chanda Rubin,0.12509066,0.04964782,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,422,0.5534962303936481
+414,Salma Hayek,79,79,Salma Hayek,0.29059064,0.29059064,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,423,0.28543031215667725
+415,Salma Hayek,79,58,Michael Jackson,0.168946,0.07889632,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,424,0.5391048416495323
+416,Salma Hayek,79,79,Salma Hayek,0.26291025,0.26291025,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,425,0.15679150819778442
+417,Salma Hayek,79,79,Salma Hayek,0.24730815,0.24730815,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,426,0.26058463752269745
+418,Lance Bass,47,47,Lance Bass,0.16472203,0.16472203,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,427,0.4147886633872986
+419,Lance Bass,47,93,Victoria Clarke,0.30689818,0.05117464,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,428,0.2726353406906128
+420,Lance Bass,47,47,Lance Bass,0.37093768,0.37093768,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,429,-0.021838396787643433
+421,Lance Bass,47,93,Victoria Clarke,0.18921119,0.072119236,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,430,0.5337995290756226
+422,Thomas OBrien,86,86,Thomas OBrien,0.26991025,0.26991025,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,431,0.3639462888240814
+423,Thomas OBrien,86,86,Thomas OBrien,0.22631982,0.22631982,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,432,0.31262704730033875
+424,Thomas OBrien,86,39,John Stockton,0.16838665,0.10193325,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,433,0.6049566194415092
+425,Thomas OBrien,86,86,Thomas OBrien,0.5997651,0.5997651,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,434,0.14736992120742798
+426,Thomas OBrien,86,0,Abdullah Gul,0.12693629,0.04154948,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,435,0.5207910165190697
+427,Thomas OBrien,86,86,Thomas OBrien,0.4372066,0.4372066,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,436,0.23203805088996887
+428,Thomas OBrien,86,39,John Stockton,0.18745682,0.14353235,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,437,0.48305217921733856
+429,Thomas OBrien,86,93,Victoria Clarke,0.19507055,0.17335886,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,438,0.5973561406135559
+430,Yasser Arafat,98,98,Yasser Arafat,0.2798181,0.2798181,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,439,0.35834357142448425
+431,Yasser Arafat,98,98,Yasser Arafat,0.5294693,0.5294693,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,440,0.1133623719215393
+432,Yasser Arafat,98,98,Yasser Arafat,0.38330603,0.38330603,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,441,0.17274481058120728
+433,Yasser Arafat,98,98,Yasser Arafat,0.22871631,0.22871631,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,442,0.1656302511692047
+434,Yasser Arafat,98,98,Yasser Arafat,0.4396065,0.4396065,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,443,-0.02636060118675232
+435,Yasser Arafat,98,93,Victoria Clarke,0.14566708,0.11997872,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,444,0.5133137181401253
+436,Yasser Arafat,98,98,Yasser Arafat,0.4339891,0.4339891,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,445,0.17557424306869507
+437,Li Peng,48,48,Li Peng,0.47422925,0.47422925,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,446,0.10902717709541321
+438,Li Peng,48,48,Li Peng,0.20837185,0.20837185,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,447,0.3105194866657257
+439,Li Peng,48,48,Li Peng,0.37411124,0.37411124,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,448,0.12095695734024048
+440,Li Peng,48,58,Michael Jackson,0.1697962,-0.04061377,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,449,0.5538083910942078
+441,Li Peng,48,48,Li Peng,0.41333967,0.41333967,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,450,-0.019992411136627197
+442,Li Peng,48,48,Li Peng,0.5217079,0.5217079,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,451,0.16025614738464355
+443,Li Peng,48,48,Li Peng,0.31187916,0.31187916,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,452,0.20924872159957886
+444,Li Peng,48,48,Li Peng,0.53490937,0.53490937,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,453,0.08549243211746216
+445,Meryl Streep,56,56,Meryl Streep,0.25108334,0.25108334,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,454,0.36510810256004333
+446,Meryl Streep,56,93,Victoria Clarke,0.22783202,0.16909353,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,455,0.47269995510578156
+447,Meryl Streep,56,36,Jiang Zemin,0.14717834,0.06324198,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,456,0.3163780942559242
+448,Meryl Streep,56,56,Meryl Streep,0.2989908,0.2989908,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,457,0.35874873399734497
+449,Meryl Streep,56,56,Meryl Streep,0.42839754,0.42839754,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,458,0.14428848028182983
+450,Meryl Streep,56,93,Victoria Clarke,0.22144651,0.12195256,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,459,0.5273649394512177
+451,Meryl Streep,56,93,Victoria Clarke,0.2781706,0.073907316,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,460,0.3525998890399933
+452,Meryl Streep,56,36,Jiang Zemin,0.18430355,0.026104001,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,461,0.24858766980469227
+453,Condoleezza Rice,18,18,Condoleezza Rice,0.17344072,0.17344072,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,462,0.3574714958667755
+454,Condoleezza Rice,18,18,Condoleezza Rice,0.48066214,0.48066214,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,463,0.0671968162059784
+455,Condoleezza Rice,18,18,Condoleezza Rice,0.45739305,0.45739305,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,464,0.04008758068084717
+456,Condoleezza Rice,18,18,Condoleezza Rice,0.41380298,0.41380298,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,465,0.23174381256103516
+457,Condoleezza Rice,18,18,Condoleezza Rice,0.2075927,0.2075927,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,466,0.38814815878868103
+458,Condoleezza Rice,18,11,Carla Del Ponte,0.14649293,0.12392457,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,467,0.528827354311943
+459,Condoleezza Rice,18,18,Condoleezza Rice,0.36505604,0.36505604,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,468,0.014704287052154541
+460,Condoleezza Rice,18,18,Condoleezza Rice,0.31245816,0.31245816,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,469,-0.026531755924224854
+461,Colin Powell,17,17,Colin Powell,0.5366945,0.5366945,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,470,0.07235598564147949
+462,Colin Powell,17,17,Colin Powell,0.48680854,0.48680854,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,471,0.24311429262161255
+463,Colin Powell,17,17,Colin Powell,0.43884003,0.43884003,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,472,0.09531116485595703
+464,Colin Powell,17,67,Peter Struck,0.17293875,0.11748432,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,473,0.3753646984696388
+465,Colin Powell,17,17,Colin Powell,0.2958528,0.2958528,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,474,0.20009911060333252
+466,Colin Powell,17,36,Jiang Zemin,0.19959146,0.0986546,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,475,0.4703470766544342
+467,Colin Powell,17,93,Victoria Clarke,0.18671982,0.024016295,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,476,0.560625996440649
+468,Colin Powell,17,17,Colin Powell,0.3054489,0.3054489,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,477,0.09815946221351624
+469,Jon Gruden,41,26,Gunter Pleuger,0.16740987,0.14300886,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,478,0.49658069014549255
+470,Jon Gruden,41,14,Chanda Rubin,0.16214341,0.07347406,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,479,0.5252160951495171
+471,Jon Gruden,41,41,Jon Gruden,0.17351428,0.17351428,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,480,0.4162547290325165
+472,Jon Gruden,41,41,Jon Gruden,0.26987943,0.26987943,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,481,0.231893390417099
+473,Jon Gruden,41,41,Jon Gruden,0.21981028,0.21981028,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,482,0.419501930475235
+474,Jon Gruden,41,76,Roger Moore,0.23507103,0.1426812,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,483,0.5132053345441818
+475,Carla Del Ponte,11,11,Carla Del Ponte,0.35352683,0.35352683,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,484,0.08304387331008911
+476,Carla Del Ponte,11,93,Victoria Clarke,0.17231433,0.16447687,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,485,0.10355424880981445
+477,Carla Del Ponte,11,93,Victoria Clarke,0.21894437,0.19330813,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,486,0.10924480855464935
+478,Carla Del Ponte,11,11,Carla Del Ponte,0.40804628,0.40804628,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,487,-0.062397301197052
+479,Rubens Barrichello,78,78,Rubens Barrichello,0.34607705,0.34607705,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,489,0.17669382691383362
+480,Rubens Barrichello,78,78,Rubens Barrichello,0.16341233,0.16341233,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,490,0.29756754636764526
+481,Rubens Barrichello,78,93,Victoria Clarke,0.21957889,0.12516353,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,491,0.2520475685596466
+482,Rubens Barrichello,78,78,Rubens Barrichello,0.14668703,0.14668703,True,False,False,True,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,492,0.2615073323249817
+483,Rubens Barrichello,78,78,Rubens Barrichello,0.24528484,0.24528484,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,493,-0.03199855983257294
+484,Rubens Barrichello,78,78,Rubens Barrichello,0.20997849,0.20997849,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,494,0.04946666955947876
+485,Rubens Barrichello,78,78,Rubens Barrichello,0.18302236,0.18302236,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,495,0.17914755642414093
+486,Pedro Almodovar,66,66,Pedro Almodovar,0.513074,0.513074,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,496,0.03826874494552612
+487,Pedro Almodovar,66,6,Binyamin Ben-Eliezer,0.19999422,0.16915843,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,497,0.12452074885368347
+488,Pedro Almodovar,66,66,Pedro Almodovar,0.37032062,0.37032062,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,498,0.09961694478988647
+489,Pedro Almodovar,66,0,Abdullah Gul,0.19069521,0.11500185,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,500,0.3075963333249092
+490,Pedro Almodovar,66,66,Pedro Almodovar,0.25411946,0.25411946,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,501,0.2891906499862671
+491,Xavier Malisse,97,93,Victoria Clarke,0.15319678,0.036702152,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,502,0.7101204432547092
+492,Xavier Malisse,97,3,Ari Fleischer,0.14537522,0.11134677,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,503,0.6510045081377029
+493,Xavier Malisse,97,97,Xavier Malisse,0.23013172,0.23013172,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,504,0.5120009481906891
+494,Xavier Malisse,97,83,Sourav Ganguly,0.19533972,0.16558595,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,505,0.3902413100004196
+495,Albert Costa,2,2,Albert Costa,0.40611368,0.40611368,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,506,0.13739675283432007
+496,Albert Costa,2,2,Albert Costa,0.45452762,0.45452762,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,507,0.2250286340713501
+497,Albert Costa,2,2,Albert Costa,0.39188564,0.39188564,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,508,0.2833254337310791
+498,Albert Costa,2,2,Albert Costa,0.5125125,0.5125125,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,509,0.1018252968788147
+499,Albert Costa,2,2,Albert Costa,0.2753611,0.2753611,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,510,0.3479306399822235
+500,Susan Sarandon,85,85,Susan Sarandon,0.28441054,0.28441054,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,511,0.2871047258377075
+501,Susan Sarandon,85,11,Carla Del Ponte,0.16706088,0.15925601,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,512,0.11004066467285156
+502,Susan Sarandon,85,30,Ian Thorpe,0.17354563,0.12206182,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,513,0.19450953602790833
+503,Susan Sarandon,85,93,Victoria Clarke,0.21236098,0.010857185,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,514,0.2962853703647852
+504,Susan Sarandon,85,93,Victoria Clarke,0.16825362,0.011926205,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,515,0.3674377193674445
+505,Bob Graham,7,11,Carla Del Ponte,0.22668812,0.07676258,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,516,0.36974791437387466
+506,Bob Graham,7,11,Carla Del Ponte,0.26249355,0.1821146,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,517,0.31972676515579224
+507,Bob Graham,7,7,Bob Graham,0.33291006,0.33291006,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,518,0.21303069591522217
+508,Bob Graham,7,11,Carla Del Ponte,0.1720187,0.16203736,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,519,0.5125414282083511
+509,Bob Graham,7,11,Carla Del Ponte,0.20348436,0.07270972,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,520,0.4017369970679283
+510,Nestor Kirchner,60,76,Roger Moore,0.20216429,0.13305488,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,521,0.3702786862850189
+511,Nestor Kirchner,60,36,Jiang Zemin,0.15388328,0.081840076,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,522,0.44040342420339584
+512,Nestor Kirchner,60,93,Victoria Clarke,0.22033346,0.060111877,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,523,0.4655863679945469
+513,Nestor Kirchner,60,7,Bob Graham,0.21933083,0.2003049,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,524,0.27126583456993103
+514,Nestor Kirchner,60,93,Victoria Clarke,0.17749244,0.105636716,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,525,0.41564929485321045
+515,Nestor Kirchner,60,93,Victoria Clarke,0.15628676,0.13307962,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,526,0.3125564157962799
+516,Nestor Kirchner,60,57,Michael Chang,0.1267378,-0.008116946,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,527,0.39139895141124725
+517,Nestor Kirchner,60,60,Nestor Kirchner,0.28443837,0.28443837,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,528,0.2736961841583252
+518,Victoria Clarke,93,93,Victoria Clarke,0.3809667,0.3809667,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,530,-0.016721516847610474
+519,Victoria Clarke,93,93,Victoria Clarke,0.3600691,0.3600691,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,532,-0.16742868721485138
+520,Chanda Rubin,14,14,Chanda Rubin,0.42799145,0.42799145,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,533,0.10642355680465698
+521,Chanda Rubin,14,14,Chanda Rubin,0.3430495,0.3430495,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,534,0.21471527218818665
+522,Chanda Rubin,14,30,Ian Thorpe,0.16247144,0.07652674,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,535,0.1833985671401024
+523,Chanda Rubin,14,58,Michael Jackson,0.1978732,0.14576146,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,536,0.413811594247818
+524,Sourav Ganguly,83,83,Sourav Ganguly,0.19491252,0.19491252,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,537,0.05663147568702698
+525,Sourav Ganguly,83,83,Sourav Ganguly,0.22864202,0.22864202,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,538,0.17991620302200317
+526,Sourav Ganguly,83,83,Sourav Ganguly,0.30776078,0.30776078,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,539,0.06208258867263794
+527,Sourav Ganguly,83,93,Victoria Clarke,0.16013604,0.01765778,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,540,0.30308274179697037
+528,Jason Kidd,32,32,Jason Kidd,0.42850935,0.42850935,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,541,0.0357079803943634
+529,Jason Kidd,32,32,Jason Kidd,0.3093027,0.3093027,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,542,0.1282607913017273
+530,Jason Kidd,32,32,Jason Kidd,0.4493866,0.4493866,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,543,0.05687296390533447
+531,Jason Kidd,32,93,Victoria Clarke,0.11776784,0.072815955,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,544,0.18417692184448242
+532,Jason Kidd,32,32,Jason Kidd,0.33145082,0.33145082,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,545,0.07664591073989868
+533,Jason Kidd,32,32,Jason Kidd,0.29897958,0.29897958,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,546,0.10040515661239624
+534,Jason Kidd,32,32,Jason Kidd,0.25435168,0.25435168,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,547,-0.002613663673400879
+535,Jason Kidd,32,32,Jason Kidd,0.35304075,0.35304075,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,548,0.107820063829422
+536,Jiang Zemin,36,36,Jiang Zemin,0.31079096,0.31079096,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,549,0.4493587613105774
+537,Jiang Zemin,36,36,Jiang Zemin,0.46475178,0.46475178,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,550,-0.0005861818790435791
+538,Jiang Zemin,36,36,Jiang Zemin,0.50939727,0.50939727,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,551,0.05377829074859619
+539,Jiang Zemin,36,36,Jiang Zemin,0.23781353,0.23781353,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,552,0.21882790327072144
+540,Jiang Zemin,36,36,Jiang Zemin,0.51935047,0.51935047,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,553,0.17986828088760376
+541,Jiang Zemin,36,36,Jiang Zemin,0.36050755,0.36050755,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,554,0.2123304009437561
+542,Jiang Zemin,36,36,Jiang Zemin,0.45590365,0.45590365,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,555,0.12299388647079468
+543,Jiang Zemin,36,36,Jiang Zemin,0.31830114,0.31830114,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,556,0.4060763716697693
+544,Michael Chang,57,93,Victoria Clarke,0.18003452,0.12558585,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,557,0.384510338306427
+545,Michael Chang,57,57,Michael Chang,0.35675848,0.35675848,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,558,0.0766119658946991
+546,Michael Chang,57,57,Michael Chang,0.28175652,0.28175652,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,559,0.19140297174453735
+547,Michael Chang,57,30,Ian Thorpe,0.17871699,0.11169505,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,560,0.6299628019332886
+548,Michael Chang,57,30,Ian Thorpe,0.1760293,0.031399757,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,561,0.4926445186138153
+549,Michael Chang,57,57,Michael Chang,0.23102891,0.23102891,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,562,0.18683871626853943
+550,Michael Chang,57,93,Victoria Clarke,0.23990467,0.09414751,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,563,0.44623082131147385
+551,Ricardo Lagos,71,11,Carla Del Ponte,0.13675746,0.027875947,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,564,0.6095013152807951
+552,Ricardo Lagos,71,71,Ricardo Lagos,0.5863639,0.5863639,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,565,-0.041448354721069336
+553,Ricardo Lagos,71,71,Ricardo Lagos,0.2869557,0.2869557,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,566,0.3973124027252197
+554,Ricardo Lagos,71,71,Ricardo Lagos,0.29458666,0.29458666,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,567,0.41511088609695435
+555,Ricardo Lagos,71,71,Ricardo Lagos,0.5262301,0.5262301,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,568,0.09153592586517334
+556,Ricardo Lagos,71,71,Ricardo Lagos,0.45315737,0.45315737,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,569,0.12620222568511963
+557,Ricardo Lagos,71,11,Carla Del Ponte,0.20362517,0.040306702,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,570,0.5693404525518417
+558,Ricardo Lagos,71,71,Ricardo Lagos,0.61344343,0.61344343,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,571,0.0991067886352539
+559,Lindsay Davenport,50,14,Chanda Rubin,0.15471025,0.07268058,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,572,0.539372518658638
+560,Lindsay Davenport,50,93,Victoria Clarke,0.30458438,0.05995033,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,573,0.6861545071005821
+561,Lindsay Davenport,50,98,Yasser Arafat,0.14937766,0.06913475,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,574,0.5662768706679344
+562,Lindsay Davenport,50,50,Lindsay Davenport,0.41422796,0.41422796,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,575,0.30154675245285034
+563,Lindsay Davenport,50,93,Victoria Clarke,0.19085369,0.08030187,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,576,0.6767825558781624
+564,Lindsay Davenport,50,93,Victoria Clarke,0.2682382,0.11321367,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,577,0.4459007829427719
+565,Lindsay Davenport,50,14,Chanda Rubin,0.14120285,0.031110665,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,578,0.5444999132305384
+566,Lindsay Davenport,50,93,Victoria Clarke,0.276124,0.041679576,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,579,0.35551707446575165
+567,Heidi Klum,27,26,Gunter Pleuger,0.15983632,0.103988804,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,580,0.27127500623464584
+568,Heidi Klum,27,27,Heidi Klum,0.27997145,0.27997145,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,581,0.2905861437320709
+569,Heidi Klum,27,11,Carla Del Ponte,0.21792474,0.21030405,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,582,0.31014546751976013
+570,Heidi Klum,27,30,Ian Thorpe,0.18722467,0.13113928,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,583,0.3645471930503845
+571,David Nalbandian,20,11,Carla Del Ponte,0.21796209,0.12624171,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,584,0.3186750113964081
+572,David Nalbandian,20,93,Victoria Clarke,0.20039451,0.10288061,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,585,0.40739093720912933
+573,David Nalbandian,20,30,Ian Thorpe,0.29453555,0.24611907,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,586,0.16937024891376495
+574,David Nalbandian,20,93,Victoria Clarke,0.31458983,0.12366775,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,587,0.08650553226470947
+575,David Nalbandian,20,20,David Nalbandian,0.32619295,0.32619295,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,588,0.18290534615516663
+576,David Nalbandian,20,93,Victoria Clarke,0.251576,0.1891228,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,589,0.2158922553062439
+577,David Nalbandian,20,20,David Nalbandian,0.28096563,0.28096563,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,590,0.16783154010772705
+578,David Nalbandian,20,93,Victoria Clarke,0.14468013,0.04209852,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,591,0.5311881341040134
+579,Trent Lott,91,91,Trent Lott,0.40146482,0.40146482,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,592,0.19024062156677246
+580,Trent Lott,91,93,Victoria Clarke,0.22086862,0.05220389,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,593,0.4237316884100437
+581,Trent Lott,91,91,Trent Lott,0.49547756,0.49547756,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,594,0.1883683204650879
+582,Trent Lott,91,93,Victoria Clarke,0.21235849,0.15315817,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,595,0.34457702934741974
+583,Trent Lott,91,91,Trent Lott,0.26801753,0.26801753,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,596,0.1205528974533081
+584,Trent Lott,91,91,Trent Lott,0.52317977,0.52317977,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,597,0.005880951881408691
+585,Trent Lott,91,91,Trent Lott,0.31208634,0.31208634,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,598,0.03295499086380005
+586,Trent Lott,91,91,Trent Lott,0.2993393,0.2993393,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,599,0.2341996431350708
+587,Paul Martin,64,40,John Travolta,0.20610425,0.18242161,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,600,0.1719646006822586
+588,Paul Martin,64,93,Victoria Clarke,0.17735255,0.04123208,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,601,0.2804690897464752
+589,Paul Martin,64,66,Pedro Almodovar,0.19355392,0.1512748,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,602,0.17749369144439697
+590,Paul Martin,64,95,William Macy,0.16121095,0.12611984,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,603,0.37899865210056305
+591,Paul Martin,64,98,Yasser Arafat,0.15887582,0.02546205,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,604,0.38592634722590446
+592,Paul Martin,64,76,Roger Moore,0.14878306,0.07063527,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,605,0.3787032887339592
+593,Paul Martin,64,64,Paul Martin,0.3714555,0.3714555,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,606,0.04896858334541321
+594,Natalie Maines,59,30,Ian Thorpe,0.2043093,-0.0081137745,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,607,0.370339366607368
+595,Natalie Maines,59,59,Natalie Maines,0.24163184,0.24163184,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,608,0.10806849598884583
+596,Natalie Maines,59,59,Natalie Maines,0.4042107,0.4042107,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,609,0.0850527286529541
+597,Natalie Maines,59,93,Victoria Clarke,0.20201576,0.013457432,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,610,0.39812903106212616
+598,John Travolta,40,40,John Travolta,0.33799642,0.33799642,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,611,-0.03584441542625427
+599,John Travolta,40,40,John Travolta,0.23714697,0.23714697,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,612,0.31533658504486084
+600,John Travolta,40,68,Pierce Brosnan,0.14532988,0.034780223,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,613,0.45979903265833855
+601,John Travolta,40,40,John Travolta,0.1944395,0.1944395,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,614,0.27579793334007263
+602,John Travolta,40,40,John Travolta,0.2857904,0.2857904,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,615,0.03866669535636902
+603,John Travolta,40,40,John Travolta,0.28050435,0.28050435,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,616,0.022289395332336426
+604,Roman Polanski,77,93,Victoria Clarke,0.19287676,0.05892195,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,617,0.27284781262278557
+605,Roman Polanski,77,77,Roman Polanski,0.36248398,0.36248398,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,619,0.06690803170204163
+606,Roman Polanski,77,77,Roman Polanski,0.19119206,0.19119206,True,True,True,False,False,False,adaface_ir101_wf12m,adversarial_mascot_sticker,620,0.4561867415904999
+607,Roman Polanski,77,30,Ian Thorpe,0.21642609,0.18614966,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,621,0.3026873469352722
+608,Justin Timberlake,44,30,Ian Thorpe,0.15591903,0.0014962126,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,622,0.4540413450449705
+609,Justin Timberlake,44,4,Ben Affleck,0.29871854,0.226224,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,624,0.1948569416999817
+610,Justin Timberlake,44,76,Roger Moore,0.20011508,0.15934636,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,625,0.4203362315893173
+611,Justin Timberlake,44,98,Yasser Arafat,0.1364473,-0.013122428,False,False,False,True,True,False,adaface_ir101_wf12m,adversarial_mascot_sticker,626,0.47291769459843636
+612,Justin Timberlake,44,93,Victoria Clarke,0.16665116,0.0062790113,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,627,0.3704066378995776
+613,Justin Timberlake,44,90,Tommy Haas,0.16502881,0.1303445,False,True,False,False,True,True,adaface_ir101_wf12m,adversarial_mascot_sticker,628,0.3530936986207962

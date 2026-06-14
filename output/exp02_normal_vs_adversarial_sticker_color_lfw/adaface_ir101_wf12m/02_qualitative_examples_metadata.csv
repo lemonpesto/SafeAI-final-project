@@ -1,0 +1,7 @@
+base_probe_row,true_identity,adv_top1_identity,adv_top1_similarity,adv_true_similarity,adv_misaccept
+9,Ciro Gomes,Victoria Clarke,0.1948036253452301,0.06624538451433182,True
+10,Ciro Gomes,Victoria Clarke,0.19583597779273987,0.19401578605175018,True
+13,Ricardo Sanchez,Joe Lieberman,0.19364213943481445,0.14332447946071625,True
+14,Ricardo Sanchez,William Macy,0.18695813417434692,0.1591198444366455,True
+27,Edmund Stoiber,Victoria Clarke,0.22211617231369019,0.15259069204330444,True
+40,Tung Chee-hwa,Victoria Clarke,0.23226869106292725,-0.02388482540845871,True
