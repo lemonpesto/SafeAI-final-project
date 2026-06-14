@@ -1,0 +1,7 @@
+base_probe_row,true_identity,adv_top1_identity,adv_top1_similarity,adv_true_similarity,adv_misaccept
+23,Edmund Stoiber,Rubens Barrichello,0.38720402121543884,0.2816966772079468,True
+28,Edmund Stoiber,Rubens Barrichello,0.3168662190437317,0.30047091841697693,True
+30,Carmen Electra,Erika Harold,0.2673987150192261,0.15197813510894775,True
+53,Lleyton Hewitt,Victoria Clarke,0.32055753469467163,0.2580619752407074,True
+57,Lleyton Hewitt,Jason Kidd,0.32650089263916016,0.16688847541809082,True
+59,Lleyton Hewitt,Victoria Clarke,0.32388120889663696,0.32226139307022095,True

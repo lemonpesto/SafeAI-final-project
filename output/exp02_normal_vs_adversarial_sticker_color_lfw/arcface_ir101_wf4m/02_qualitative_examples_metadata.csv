@@ -1,0 +1,7 @@
+base_probe_row,true_identity,adv_top1_identity,adv_top1_similarity,adv_true_similarity,adv_misaccept
+4,Abdullah Gul,Rubens Barrichello,0.20155417919158936,0.123874232172966,True
+9,Ciro Gomes,Victoria Clarke,0.2904624938964844,0.08603344857692719,True
+10,Ciro Gomes,Victoria Clarke,0.22340640425682068,0.09675857424736023,True
+21,Edmund Stoiber,Woody Allen,0.2053217589855194,0.16750818490982056,True
+24,Edmund Stoiber,Victoria Clarke,0.1807732880115509,0.001047218218445778,True
+25,Edmund Stoiber,Victoria Clarke,0.22294729948043823,0.03249349072575569,True
