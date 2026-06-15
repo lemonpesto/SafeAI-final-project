@@ -1,0 +1,5 @@
+base_probe_row,true_identity,adv_top1_identity,adv_top1_similarity,adv_true_similarity,location,patch_size_ratio,patch_size_px,misaccept
+87,Zhu Rongji,Victoria Clarke,0.2593507766723633,0.030743669718503952,under_eye,0.35,39,True
+26,Edmund Stoiber,Victoria Clarke,0.24336934089660645,0.16085946559906006,under_eye,0.35,39,True
+324,Jose Manuel Durao Barroso,Victoria Clarke,0.23949094116687775,0.1389513909816742,under_eye,0.35,39,True
+605,Paul Martin,Victoria Clarke,0.19167974591255188,0.04204130917787552,under_eye,0.35,39,True

@@ -1,0 +1,2 @@
+model_short_name,condition,placement,n,location,patch_size_ratio,patch_size_px,threshold,rank1_acc,correct_accept_rate,false_reject_rate,misid_rate,misaccept_rate,avg_top1_sim,avg_true_sim,avg_similarity_drop
+adaface_ir101_wf12m,normal_mascot_sticker,landmark_relative,614,nose_bridge,0.3,34,0.16163350641727448,0.995114006514658,0.995114006514658,0.0,0.004885993485342019,0.004885993485342019,0.466622531414032,0.4665200412273407,0.03210783859029267

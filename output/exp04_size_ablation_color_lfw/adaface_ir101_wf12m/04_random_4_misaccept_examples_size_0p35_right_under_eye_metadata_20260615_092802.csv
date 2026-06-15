@@ -1,0 +1,5 @@
+base_probe_row,true_identity,adv_top1_identity,adv_top1_similarity,adv_true_similarity,location,patch_size_ratio,patch_size_px,misaccept
+423,Salma Hayek,Victoria Clarke,0.274812787771225,-0.02235713228583336,right_under_eye,0.35,39,True
+269,Joseph Biden,Pedro Almodovar,0.19988590478897095,0.10350831598043442,right_under_eye,0.35,39,True
+610,Natalie Maines,Pedro Almodovar,0.25362658500671387,-0.08090873807668686,right_under_eye,0.35,39,True
+130,Robert Blake,Trent Lott,0.19827497005462646,0.18125611543655396,right_under_eye,0.35,39,True

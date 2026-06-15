@@ -1,0 +1,5 @@
+base_probe_row,true_identity,adv_top1_identity,adv_top1_similarity,adv_true_similarity,location,patch_size_ratio,patch_size_px,misaccept
+93,Mahmoud Abbas,Abdullah Gul,0.173490509390831,0.010455135256052017,nose_bridge,0.3,34,True
+188,Tom Daschle,Victoria Clarke,0.1692311316728592,0.1251792311668396,nose_bridge,0.3,34,True
+523,Nestor Kirchner,Victoria Clarke,0.19782668352127075,0.1041230708360672,nose_bridge,0.3,34,True
+129,Robert Blake,John Stockton,0.16256655752658844,-0.04725343734025955,nose_bridge,0.3,34,True
