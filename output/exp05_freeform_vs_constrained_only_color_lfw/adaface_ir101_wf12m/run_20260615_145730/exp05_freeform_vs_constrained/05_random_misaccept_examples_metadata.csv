@@ -1,0 +1,5 @@
+base_probe_row,true_identity,free_form_top1_identity,free_form_top1_similarity,free_form_true_similarity,location,patch_size_ratio,patch_size_px,free_form_misaccept
+78,David Anderson,Victoria Clarke,0.21593396365642548,-0.0030468013137578964,nose_bridge,0.35,39,True
+281,Madonna,Chanda Rubin,0.2620987594127655,0.07581307739019394,nose_bridge,0.35,39,True
+194,Ian Thorpe,Chanda Rubin,0.2597563862800598,0.2293611317873001,nose_bridge,0.35,39,True
+303,Li Zhaoxing,Victoria Clarke,0.16294685006141663,0.1400792896747589,nose_bridge,0.35,39,True
