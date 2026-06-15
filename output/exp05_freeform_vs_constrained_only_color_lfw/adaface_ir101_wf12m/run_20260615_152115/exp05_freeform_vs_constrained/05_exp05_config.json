@@ -1,0 +1,20 @@
+{
+  "experiment": "exp05_freeform_vs_mascot_preserving_constrained",
+  "model_name": "minchul/cvlface_adaface_ir101_webface12m",
+  "model_short_name": "adaface_ir101_wf12m",
+  "dataset": "Color LFW via sklearn.fetch_lfw_people",
+  "num_identities": 100,
+  "target_far": 0.01,
+  "location": "nose_bridge",
+  "patch_size_ratio": 0.35,
+  "patch_size_px": 39,
+  "constrain_eps_norm": 0.5,
+  "constrain_eps_rgb_0_1": 0.25,
+  "preserve_weight": 0.1,
+  "delta_tv_weight": 0.01,
+  "attack_steps": 1000,
+  "attack_batch_size": 32,
+  "attack_lr": 0.05,
+  "threshold": 0.16163350641727448,
+  "run_tag": "run_20260615_152115"
+}

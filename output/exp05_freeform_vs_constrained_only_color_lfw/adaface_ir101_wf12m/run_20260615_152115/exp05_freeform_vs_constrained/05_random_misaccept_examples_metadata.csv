@@ -1,0 +1,5 @@
+base_probe_row,true_identity,free_form_top1_identity,free_form_top1_similarity,free_form_true_similarity,location,patch_size_ratio,patch_size_px,free_form_misaccept
+218,Ari Fleischer,Victoria Clarke,0.21481141448020935,0.19498781859874725,nose_bridge,0.35,39,True
+221,Ari Fleischer,Madonna,0.17463459074497223,0.06679165363311768,nose_bridge,0.35,39,True
+414,Jean-Pierre Raffarin,Abdullah Gul,0.16537882387638092,-0.02026858553290367,nose_bridge,0.35,39,True
+290,Calista Flockhart,Madonna,0.2166595458984375,0.09710085391998291,nose_bridge,0.35,39,True
