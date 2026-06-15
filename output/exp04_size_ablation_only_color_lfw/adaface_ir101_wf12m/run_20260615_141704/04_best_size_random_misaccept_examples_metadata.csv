@@ -1,0 +1,5 @@
+base_probe_row,true_identity,adv_top1_identity,adv_top1_similarity,adv_true_similarity,location,patch_size_ratio,patch_size_px,misaccept
+210,John Allen Muhammad,John Stockton,0.21185016632080078,0.11026840656995773,nose_bridge,0.35,39,True
+621,Roman Polanski,Victoria Clarke,0.21915671229362488,0.06524214148521423,nose_bridge,0.35,39,True
+351,Pierce Brosnan,Carla Del Ponte,0.20359717309474945,0.17583660781383514,nose_bridge,0.35,39,True
+143,Martha Stewart,Victoria Clarke,0.32645082473754883,0.04754813760519028,nose_bridge,0.35,39,True

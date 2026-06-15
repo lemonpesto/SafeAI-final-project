@@ -1,0 +1,13 @@
+{
+  "exp04_location": "nose_bridge",
+  "source_json": null,
+  "exp03_best_info": {
+    "best_location": "nose_bridge",
+    "best_misaccept_rate": 0.28664495114006516,
+    "patch_size_ratio": 0.3,
+    "patch_size_px": 34,
+    "model_short_name": "adaface_ir101_wf12m",
+    "note": "manual_hardcoded_from_exp03_result"
+  },
+  "run_tag": "run_20260615_141704"
+}
