@@ -1,0 +1,2 @@
+location,patch_size_ratio,patch_size_px,note,attack_steps
+nose_bridge,0.3,34,reused_from_exp03,1000
